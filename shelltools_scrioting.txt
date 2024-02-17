@@ -1,0 +1,113 @@
+some interesting commands
+
+ls - will tell u the list of directories and files
+ls *.sh - will tell u only such file or directories which has the extension of sh
+ls project? - will tell u all the list of project1, project3, ... so on
+shellcheck (file/functions) - will give you the explaination of the program that what are the errors
+tldr (function/command) - will tell you the explaination how can this tool is usefull i.e: tldr convert will tell you how to use convert command
+
+1. shellcheck (script as argument) - will tell you all the error in the file or sript one by one
+2. tldr (command) - will tell you how to use that command for different purposes
+
+
+
+Note: if we dont the path of the interpreter for the shebang, we can use this command in shebang.
+#1/user/bin/env (interpreter like python, bash, sh and etc.)
+
+======================================================================================
+
+SOME $ COMMANDS IN BASH
+
+$1 - to create or define a folder in the function or script
+2. echo $? - will tells you the error on the previous command in the form of 0 or 1
+
+3. $0 - will tell the name of the script
+4. $# - will tell the number of argument given to the command
+5. $$ - will tell the process id of the script
+6. $@ - will tell all the argument in the file
+7. $_ - will get you the last argument of the previous command
+8. !! (bang bang - name) - replace the previous command 
+
+
+
+
+====================================================================
+
+- foo=bar // to assign values
+- echo $foo // to print the value of foo, be careful of spaces: foo = bar would not work
+- echo "value is $foo" // give output as value is bar
+- echo 'value is $foo' // give output as value is $foo single comma will replace the string as it is
+1. source (function) // to execute or define the function in the shell
+
+==========================================================================================================================================================
+
+Operators:
+- true has the value of 0
+- false has the value of 1
+
+1. flase || echo "Oops fails" // if the first statement has error then second will execute. if the first statement is 1, the second will execute
+2. true || echo "this will not be printed" // as the true has the value of 0
+3. false && echo "this will not print" // only execute the second part if first run with error
+4. true && echo "this will print" // as the first part executed without error
+5. false ; echo "this will always print" // semicolon is used to concenate the commands
+
+COMPARISION OPERATOR:
+
+1. -ne = not equal
+
+
+====================================================================================================================================================================== 
+
+1. echo $(pwd) - // will print the current directory
+2. cat <(ls) <(ls ..) - // to concatenate the both files
+
+
+=======================================================================
+
+How to find the files in directories and take actions if wants?
+
+1. find . -name src -type d // give the name of the file after name and give the type of the file after type whether it is a directory or file (d/f)
+
+. (dot stand for the current folder)
+
+2. find . -path '**/test/*.py' -type f //to find the paths of the python file name as test?.py in any directory
+
+3. find . -mtime -1 // tells you the list of file which is modified in last days
+
+You can find files or directories with size, owner, permission and many more. do your research yourself.
+
+4. find . -name "*.tmp" -exec rm {} \;  this will remove the all file who have .tmp extensions. this is find and do functions.
+
+5. fd ".*py" // it is a shortcut. it will give all the files and path to the file who have .py extension
+
+6. locate (substring) - it will gives all the files who has the same substring in there path
+
+7. grep -R (subsring) - it will give all the files who has the same substring in there content
+
+8. you can also use ripgrep
+
+9. learn also rg command /ack/ag
+
+========================================================================
+
+1. history - //will tell you the history of previous command
+2. history 1 - //will tell you the history from the begining
+3. history 1 | grep convert - //will tell you the history of such files where the word convert used
+
+=======================================================================
+
+FUZZY FINDER fzf tool: - learn this yourself
+
+History substring search - learn this yourself
+
+==============================================================================
+
+DIRECTORY LISTING & DIRECTORY NAVIGATION:
+
+1. ls -R //to see the recursively list means structurly list till the end of hirarchy
+2. tree - execute the ls command in tree format
+
+
+=======================================================================================
+
+ 

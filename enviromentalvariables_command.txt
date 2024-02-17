@@ -1,0 +1,4 @@
+1. date - tells you date and time
+2. echo $PATH - tells you the paths of all programs avialable on the computer
+3. which (command) - tells you the path of specific command or program
+4. xdg-open (filename) - opens any type of file

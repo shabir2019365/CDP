@@ -1,0 +1,67 @@
+VIM MODES:
+
+1. normal mode // to navigating and checking
+2. insert mode - Press i - // to edit the text
+3. replace mode - Press r - for overwrite the text
+4. visual mode -  Press v -
+5. visual line mode - Press shift+v -
+6. visual block mode - Press ctrl+v -
+7. command line mode - Press : -
+
+Note: learn key rebinding yourself and try Capslock insted of Esc in changin vim modes
+
+Commands in command line mode:
+
+1. :w - to write
+2. :q - to quite
+3. :wq - to quit and write/save
+4. :help :(key) - to know about the functionality of that key for command line mode
+5. :help (key) - to seek help for the use of keys in the normal mode
+6: :sp - to split the windows in different tabs/buffers
+
+Commands in normal mode:
+
+use u for undo
+use ctrl+r for redo
+1. j - down 
+2. k - up
+3. l - right
+4. h - left
+5. w - moves forword by one word
+6. b - moves backword by one word
+7. e - to moves at the end of the word
+8. 0 - moves to the beginning of the line
+9. $ - moves to the end of the line
+10. ^ - moves to the first non empty charactor on the line
+11. ctrl+u - scroll up
+12. ctrl+d - scroll down
+13. G - moves all the way down
+14. gg - moves all the way up
+15. L - to move at lowest at the visible screen
+16. M - to move at middle on the visible screen
+17. H - to move at highest on the visible screen
+18. f (charactor) - to find the first that charactor you have pressed
+19. F (charactor) - to find in the backword of the cursuir
+20. t (charactor) - jump to before first the charactor you have pressed
+21. T (charactor) - jump in backword before the first charactor you have pressed
+
+IMPORTANT COMMANDS IN NORMAL MODES:
+
+22. o - to make a new line and move to insert mode
+23. O - to make the line above to the cursuir and move to insert mode
+24. dw - to delete a word
+25. de - to delete till the end of the word
+26. cw - to delete the word and move to the insert mode
+27. ce - to delete till the end of the word and move to the insert mode
+28. dd - to delete the line
+29. cc - to delete the line and move to the insert mode
+30. x - to delete the charactors
+31. r - to replace the perticular charactor to some another charactor
+32. y - to copy the selectd
+33. p - to paste
+34. yw - to copy the current word
+35. yy - to copy the current line
+36. v - to copy the chunk/block, move to the visual mode by pressing V and select by hjkl and press y to copy
+37. V - to copy the chunks in line
+38. ctrl+v - to copy the chunks in rectangular block
+39. ~ - to flip the case of the selected part, capital to small or vice versa
