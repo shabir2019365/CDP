@@ -1,0 +1,3 @@
+to mount the shared folder in linux
+
+sudo mount -t vboxsf Shared_folder ~/shared

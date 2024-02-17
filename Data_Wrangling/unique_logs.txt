@@ -1,0 +1,1748 @@
+      1                                                     asyncCallback@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:114:23
+      1                                                     E: Failed to fetch http://pk.archive.ubuntu.com/ubuntu/dists/jammy-backports/InRelease  
+      1                                                     E: Some index files failed to download. They have been ignored, or old ones used instead.
+      1                                                     _onGeoclueVanished@resource:///org/gnome/shell/ui/status/location.js:169:9
+      1 shabir-VirtualBox accounts-daemon[413]: started daemon version 22.07.5
+      1 shabir-VirtualBox acpid[415]: 8 rules loaded
+      1 shabir-VirtualBox acpid[415]: starting up with netlink and the input layer
+      1 shabir-VirtualBox acpid[415]: waiting for events: event logging is off
+      1 shabir-VirtualBox alsactl[572]: alsa-lib main.c:1412:(snd_use_case_mgr_open) error: failed to import hw:0 use case configuration -2
+      1 shabir-VirtualBox alsactl[572]: Found hardware: "ICH" "Analog Devices AD1980" "AC97a:41445370" "0x1028" "0x0177"
+      1 shabir-VirtualBox alsactl[572]: Hardware is initialized using a generic method
+      1 shabir-VirtualBox alsactl[572]: /usr/sbin/alsactl: load_state:1689: Cannot open /var/lib/alsa/asound.state for reading: No such file or directory
+      1 shabir-VirtualBox anacron[416]: Anacron 2.3 started on 2024-02-14
+      1 shabir-VirtualBox anacron[416]: Normal exit (0 jobs run)
+      1 shabir-VirtualBox apachectl[564]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+      1 shabir-VirtualBox apparmor.systemd[283]: Reloading AppArmor profiles
+      1 shabir-VirtualBox apparmor.systemd[283]: Restarting AppArmor
+      1 shabir-VirtualBox apparmor.systemd[331]: Skipping profile in /etc/apparmor.d/disable: usr.sbin.rsyslogd
+      1 shabir-VirtualBox apport[418]:    ...done.
+      1 shabir-VirtualBox apport[418]:  * Starting automatic crash report generation: apport
+      1 shabir-VirtualBox at-spi2-registr[1640]: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+      1 shabir-VirtualBox at-spi2-registr[1640]: Unable to register client with session manager
+      1 shabir-VirtualBox at-spi-dbus-bus.desktop[1423]: dbus-daemon[1423]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox at-spi-dbus-bus.desktop[1423]: dbus-daemon[1423]: Successfully activated service 'org.a11y.atspi.Registry'
+      1 shabir-VirtualBox at-spi-dbus-bus.desktop[1640]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+      1 shabir-VirtualBox audit[1801]: AVC apparmor="DENIED" operation="open" class="file" profile="snap.snap-store.ubuntu-software" name="/etc/appstream.conf" pid=1801 comm="snap-store" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+      1 shabir-VirtualBox audit[297]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=297 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[298]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=298 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[298]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=298 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[300]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=300 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[300]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=300 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[300]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=300 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[300]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=300 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[301]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince" pid=301 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[301]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince-previewer" pid=301 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[301]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince-previewer//sanitized_helper" pid=301 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[301]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince//sanitized_helper" pid=301 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[301]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince//snap_browsers" pid=301 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[301]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince-thumbnailer" pid=301 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[311]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=311 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[311]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_groff" pid=311 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[311]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=311 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[312]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="tcpdump" pid=312 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[313]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-oosplash" pid=313 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[315]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-senddoc" pid=315 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[316]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-soffice//gpg" pid=316 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[316]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-soffice" pid=316 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[326]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-xpdfimport" pid=326 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[327]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=327 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[327]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/snapd/snap-confine" pid=327 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[328]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cups-browsed" pid=328 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[330]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=330 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[330]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cupsd" pid=330 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[330]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cupsd//third_party" pid=330 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[348]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/16574/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=348 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[348]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/16574/usr/lib/snapd/snap-confine" pid=348 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[349]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/19457/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=349 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[349]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/19457/usr/lib/snapd/snap-confine" pid=349 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[351]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/20671/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=351 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[351]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/20671/usr/lib/snapd/snap-confine" pid=351 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[352]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.core" pid=352 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[354]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.firefox" pid=354 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[355]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.snap-store" pid=355 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[357]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.snapd-desktop-integration" pid=357 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[359]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.tree" pid=359 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[360]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.core.hook.configure" pid=360 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[361]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.firefox" pid=361 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[364]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.geckodriver" pid=364 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[369]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.hook.configure" pid=369 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[370]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.hook.connect-plug-host-hunspell" pid=370 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[373]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.hook.disconnect-plug-host-hunspell" pid=373 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[376]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.hook.post-refresh" pid=376 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[378]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snap-store.hook.configure" pid=378 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[380]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snap-store.snap-store" pid=380 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[384]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snap-store.ubuntu-software" pid=384 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[390]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snap-store.ubuntu-software-local-file" pid=390 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[395]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snapd-desktop-integration.hook.configure" pid=395 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[399]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snapd-desktop-integration.snapd-desktop-integration" pid=399 comm="apparmor_parser"
+      1 shabir-VirtualBox audit[407]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.tree.tree" pid=407 comm="apparmor_parser"
+      2 shabir-VirtualBox audit[424]: USER_AVC pid=424 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/PolicyKit1/Authority" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.3" pid=1801 label="snap.snap-store.ubuntu-software" peer_pid=438 peer_label="unconfined"
+      2 shabir-VirtualBox audit[424]: USER_AVC pid=424 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/PolicyKit1/Authority" interface="org.freedesktop.PolicyKit1.Authority" member="CheckAuthorization" mask="send" name=":1.3" pid=1801 label="snap.snap-store.ubuntu-software" peer_pid=438 peer_label="unconfined"
+      1 shabir-VirtualBox audit[525]: AVC apparmor="DENIED" operation="capable" class="cap" profile="/usr/sbin/cupsd" pid=525 comm="cupsd" capability=12  capname="net_admin"
+      1 shabir-VirtualBox audit[826]: AVC apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/20671/usr/lib/snapd/snap-confine" pid=826 comm="snap-confine" capability=12  capname="net_admin"
+      1 shabir-VirtualBox audit[826]: AVC apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/20671/usr/lib/snapd/snap-confine" pid=826 comm="snap-confine" capability=38  capname="perfmon"
+      1 shabir-VirtualBox avahi-daemon[419]: avahi-daemon 0.8 starting up.
+      1 shabir-VirtualBox avahi-daemon[419]: Found user 'avahi' (UID 114) and group 'avahi' (GID 121).
+      1 shabir-VirtualBox avahi-daemon[419]: Joining mDNS multicast group on interface enp0s3.IPv4 with address 10.0.2.15.
+      1 shabir-VirtualBox avahi-daemon[419]: Joining mDNS multicast group on interface enp0s3.IPv6 with address fe80::461d:bb35:4019:de24.
+      1 shabir-VirtualBox avahi-daemon[419]: Joining mDNS multicast group on interface lo.IPv4 with address 127.0.0.1.
+      1 shabir-VirtualBox avahi-daemon[419]: Joining mDNS multicast group on interface lo.IPv6 with address ::1.
+      1 shabir-VirtualBox avahi-daemon[419]: Network interface enumeration completed.
+      1 shabir-VirtualBox avahi-daemon[419]: New relevant interface enp0s3.IPv4 for mDNS.
+      1 shabir-VirtualBox avahi-daemon[419]: New relevant interface enp0s3.IPv6 for mDNS.
+      1 shabir-VirtualBox avahi-daemon[419]: New relevant interface lo.IPv4 for mDNS.
+      1 shabir-VirtualBox avahi-daemon[419]: New relevant interface lo.IPv6 for mDNS.
+      1 shabir-VirtualBox avahi-daemon[419]: No service file found in /etc/avahi/services.
+      1 shabir-VirtualBox avahi-daemon[419]: Registering new address record for 10.0.2.15 on enp0s3.IPv4.
+      1 shabir-VirtualBox avahi-daemon[419]: Registering new address record for 127.0.0.1 on lo.IPv4.
+      1 shabir-VirtualBox avahi-daemon[419]: Registering new address record for ::1 on lo.*.
+      1 shabir-VirtualBox avahi-daemon[419]: Registering new address record for fe80::461d:bb35:4019:de24 on enp0s3.*.
+      1 shabir-VirtualBox avahi-daemon[419]: Server startup complete. Host name is shabir-VirtualBox.local. Local service cookie is 3026903178.
+      1 shabir-VirtualBox avahi-daemon[419]: Successfully called chroot().
+      1 shabir-VirtualBox avahi-daemon[419]: Successfully dropped remaining capabilities.
+      1 shabir-VirtualBox avahi-daemon[419]: Successfully dropped root privileges.
+      1 shabir-VirtualBox colord[1184]: failed to get edid data: EDID length is too small
+      1 shabir-VirtualBox cron[422]: (CRON) INFO (pidfile fd = 3)
+      1 shabir-VirtualBox cron[422]: (CRON) INFO (Running @reboot jobs)
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.freedesktop.FileManager1' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.freedesktop.portal.IBus' requested by ':1.55' (uid=1000 pid=1652 comm="/usr/bin/ibus-daemon --panel disable " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.ArchiveManager1' requested by ':1.90' (uid=1000 pid=1956 comm="gjs /usr/share/gnome-shell/extensions/ding@rasters" label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.Calculator.SearchProvider' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.Calendar' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.Characters.BackgroundService' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.ControlCenter.SearchProvider' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.Identity' requested by ':1.34' (uid=1000 pid=1431 comm="/usr/libexec/goa-daemon " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.Nautilus' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.OnlineAccounts' requested by ':1.32' (uid=1000 pid=1425 comm="/usr/libexec/gvfs-goa-volume-monitor " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.ScreenSaver' requested by ':1.66' (uid=1000 pid=1669 comm="/usr/libexec/gsd-power " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.seahorse.Application' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.Shell.CalendarServer' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating service name='org.gnome.Shell.Notifications' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='ca.desrt.dconf' unit='dconf.service' requested by ':1.42' (uid=1000 pid=1527 comm="/usr/libexec/evolution-calendar-factory " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.freedesktop.impl.portal.desktop.gnome' unit='xdg-desktop-portal-gnome.service' requested by ':1.46' (uid=1000 pid=1615 comm="/usr/libexec/xdg-desktop-portal " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.freedesktop.impl.portal.desktop.gtk' unit='xdg-desktop-portal-gtk.service' requested by ':1.46' (uid=1000 pid=1615 comm="/usr/libexec/xdg-desktop-portal " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.5' (uid=1000 pid=1302 comm="/usr/libexec/xdg-document-portal " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.freedesktop.portal.Desktop' unit='xdg-desktop-portal.service' requested by ':1.45' (uid=1000 pid=1611 comm="/snap/snapd-desktop-integration/83/usr/bin/snapd-d" label="snap.snapd-desktop-integration.snapd-desktop-integration (enforce)")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.freedesktop.portal.Documents' unit='xdg-document-portal.service' requested by ':1.3' (uid=1000 pid=1267 comm="/usr/bin/snap run snapd-desktop-integration " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Extract' unit='tracker-extract-3.service' requested by ':1.12' (uid=1000 pid=1365 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Files' unit='tracker-miner-fs-3.service' requested by ':1.1' (uid=1000 pid=1268 comm="/usr/libexec/tracker-extract-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gnome.evolution.dataserver.AddressBook10' unit='evolution-addressbook-factory.service' requested by ':1.42' (uid=1000 pid=1527 comm="/usr/libexec/evolution-calendar-factory " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gnome.evolution.dataserver.Calendar8' unit='evolution-calendar-factory.service' requested by ':1.40' (uid=1000 pid=1513 comm="/usr/libexec/gnome-shell-calendar-server " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.40' (uid=1000 pid=1513 comm="/usr/libexec/gnome-shell-calendar-server " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gnome.Terminal' unit='gnome-terminal-server.service' requested by ':1.33' (uid=1000 pid=1413 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.12' (uid=1000 pid=1365 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.1' (uid=1000 pid=1268 comm="/usr/libexec/tracker-extract-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.12' (uid=1000 pid=1365 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.12' (uid=1000 pid=1365 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gtk.vfs.Metadata' unit='gvfs-metadata.service' requested by ':1.90' (uid=1000 pid=1956 comm="gjs /usr/share/gnome-shell/extensions/ding@rasters" label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.12' (uid=1000 pid=1365 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.12' (uid=1000 pid=1365 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] AppArmor D-Bus mediation is enabled
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'ca.desrt.dconf'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.freedesktop.FileManager1'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.freedesktop.impl.portal.desktop.gnome'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.freedesktop.impl.portal.desktop.gtk'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.freedesktop.portal.Desktop'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.freedesktop.portal.Documents'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.freedesktop.portal.IBus'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.freedesktop.Tracker3.Miner.Extract'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.freedesktop.Tracker3.Miner.Files'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.ArchiveManager1'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.Calculator.SearchProvider'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.Calendar'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.Characters.BackgroundService'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.ControlCenter.SearchProvider'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.evolution.dataserver.AddressBook10'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.evolution.dataserver.Calendar8'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.evolution.dataserver.Sources5'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.Identity'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.Nautilus'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.OnlineAccounts'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.ScreenSaver'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.seahorse.Application'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.Shell.CalendarServer'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.Shell.Notifications'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gnome.Terminal'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gtk.vfs.Daemon'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gtk.vfs.Metadata'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+      1 shabir-VirtualBox dbus-daemon[1288]: [session uid=1000 pid=1288] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+      1 shabir-VirtualBox dbus-daemon[424]: dbus[424]: Unknown group "power" in message bus configuration file
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service' requested by ':1.40' (uid=128 pid=877 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.39' (uid=128 pid=825 comm="/usr/bin/pulseaudio --daemonize=no --log-target=jo" label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.79' (uid=1000 pid=1266 comm="/usr/bin/pulseaudio --daemonize=no --log-target=jo" label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.ColorManager' unit='colord.service' requested by ':1.60' (uid=128 pid=1054 comm="/usr/libexec/gsd-color " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.102' (uid=1000 pid=1801 comm="/snap/snap-store/959/usr/bin/snap-store --gapplica" label="snap.snap-store.ubuntu-software (enforce)")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.40' (uid=128 pid=877 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.6' (uid=0 pid=425 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.40' (uid=128 pid=877 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.login1' unit='dbus-org.freedesktop.login1.service' requested by ':1.14' (uid=0 pid=585 comm="/usr/sbin/gdm3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.network1' unit='dbus-org.freedesktop.network1.service' requested by ':1.18' (uid=0 pid=671 comm="/usr/bin/networkctl list --no-pager --no-legend " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.6' (uid=0 pid=425 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.40' (uid=128 pid=877 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.31' (uid=128 pid=823 comm="/usr/bin/pipewire " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.106' (uid=1000 pid=2813 comm="/usr/bin/gnome-calendar --gapplication-service " label="unconfined")
+      2 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.42' (uid=0 pid=452 comm="/usr/lib/snapd/snapd " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.45' (uid=128 pid=897 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Activation via systemd failed for unit 'dbus-org.freedesktop.network1.service': Unit dbus-org.freedesktop.network1.service not found.
+      1 shabir-VirtualBox dbus-daemon[424]: [system] AppArmor D-Bus mediation is enabled
+      2 shabir-VirtualBox dbus-daemon[424]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'net.reactivated.Fprint'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.ColorManager'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.fwupd'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.hostname1'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.locale1'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.login1'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+      1 shabir-VirtualBox dbus-daemon[424]: [system] Successfully activated service 'org.freedesktop.UPower'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating service name='org.gnome.Identity' requested by ':1.14' (uid=128 pid=959 comm="/usr/libexec/goa-daemon " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating service name='org.gnome.OnlineAccounts' requested by ':1.13' (uid=128 pid=955 comm="/usr/libexec/gvfs-goa-volume-monitor " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.11' (uid=128 pid=933 comm="/usr/libexec/xdg-document-portal " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating via systemd: service name='org.freedesktop.portal.Documents' unit='xdg-document-portal.service' requested by ':1.9' (uid=128 pid=826 comm="/usr/bin/snap run snapd-desktop-integration " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Files' unit='tracker-miner-fs-3.service' requested by ':1.2' (uid=128 pid=827 comm="/usr/libexec/tracker-extract-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.8' (uid=128 pid=897 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.2' (uid=128 pid=827 comm="/usr/libexec/tracker-extract-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.8' (uid=128 pid=897 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.8' (uid=128 pid=897 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.8' (uid=128 pid=897 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.8' (uid=128 pid=897 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] AppArmor D-Bus mediation is enabled
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.freedesktop.portal.Documents'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.freedesktop.Tracker3.Miner.Files'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.gnome.Identity'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.gnome.OnlineAccounts'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.gtk.vfs.Daemon'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+      1 shabir-VirtualBox dbus-daemon[834]: [session uid=128 pid=834] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+      1 shabir-VirtualBox gdm-launch-environment][683]: GLib-GObject: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+      1 shabir-VirtualBox gdm-launch-environment][683]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+      1 shabir-VirtualBox gdm-launch-environment][683]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=128) by (uid=0)
+      1 shabir-VirtualBox gdm-password][1247]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+      1 shabir-VirtualBox gdm-password][1247]: gkr-pam: stashed password to try later in open session
+      1 shabir-VirtualBox gdm-password][1247]: gkr-pam: unable to locate daemon control file
+      1 shabir-VirtualBox gdm-password][1247]: pam_unix(gdm-password:session): session opened for user shabir(uid=1000) by (uid=0)
+      1 shabir-VirtualBox geoclue[1035]: Service not used for 60 seconds. Shutting down..
+      1 shabir-VirtualBox gnome-calculato[2812]: search-provider.vala:140: Failed to spawn Calculator: Child process killed by signal 9
+      1 shabir-VirtualBox gnome-keyring-daemon[1279]: The PKCS#11 component was already initialized
+      1 shabir-VirtualBox gnome-keyring-daemon[1279]: The Secret Service was already initialized
+      1 shabir-VirtualBox gnome-keyring-daemon[1279]: The SSH agent was already initialized
+      1 shabir-VirtualBox gnome-keyring-daemon[1385]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+      1 shabir-VirtualBox gnome-keyring-pkcs11.desktop[1407]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+      1 shabir-VirtualBox gnome-keyring-secrets.desktop[1409]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+      1 shabir-VirtualBox gnome-keyring-ssh.desktop[1408]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+      1 shabir-VirtualBox gnome-session[1390]: gnome-session-binary[1390]: GnomeDesktop-WARNING: Could not create transient scope for PID 1660: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1660 does not exist.
+      1 shabir-VirtualBox gnome-session[1390]: gnome-session-binary[1390]: GnomeDesktop-WARNING: Could not create transient scope for PID 1717: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1717 does not exist.
+      1 shabir-VirtualBox gnome-session[1390]: gnome-session-binary[1390]: WARNING: Could not retrieve current screensaver active state: Timeout was reached
+      2 shabir-VirtualBox gnome-session[845]: gnome-session-binary[845]: GLib-GIO-CRITICAL: g_bus_get_sync: assertion 'error == NULL || *error == NULL' failed
+      1 shabir-VirtualBox gnome-session-binary[1390]: Entering running state
+      1 shabir-VirtualBox gnome-session-binary[1390]: GnomeDesktop-WARNING: Could not create transient scope for PID 1660: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1660 does not exist.
+      1 shabir-VirtualBox gnome-session-binary[1390]: GnomeDesktop-WARNING: Could not create transient scope for PID 1717: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1717 does not exist.
+      1 shabir-VirtualBox gnome-session-binary[1390]: WARNING: Could not retrieve current screensaver active state: Timeout was reached
+      1 shabir-VirtualBox gnome-session-binary[845]: Entering running state
+      2 shabir-VirtualBox gnome-session-binary[845]: GLib-GIO-CRITICAL: g_bus_get_sync: assertion 'error == NULL || *error == NULL' failed
+      1 shabir-VirtualBox gnome-shell[1413]: Added device '/dev/dri/card0' (vmwgfx) using non-atomic mode setting.
+      1 shabir-VirtualBox gnome-shell[1413]: Boot VGA GPU /dev/dri/card0 selected as primary
+      1 shabir-VirtualBox gnome-shell[1413]: Created gbm renderer for '/dev/dri/card0'
+      1 shabir-VirtualBox gnome-shell[1413]: DING: Detected async api for thumbnails
+      1 shabir-VirtualBox gnome-shell[1413]: DING: GNOME nautilus 42.6
+      1 shabir-VirtualBox gnome-shell[1413]: Disabling DMA buffer screen sharing (implicit modifiers not supported)
+      1 shabir-VirtualBox gnome-shell[1413]: Disabling DMA buffer screen sharing (not hardware accelerated)
+      1 shabir-VirtualBox gnome-shell[1413]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+      1 shabir-VirtualBox gnome-shell[1413]: Failed to initialize accelerated iGPU/dGPU framebuffer sharing: Not hardware accelerated
+      1 shabir-VirtualBox gnome-shell[1413]: GNOME Shell started at Wed Feb 14 2024 17:46:08 GMT+0500 (PKT)
+      2 shabir-VirtualBox gnome-shell[1413]: libEGL warning: egl: failed to create dri2 screen
+      1 shabir-VirtualBox gnome-shell[1413]: Registering session with GDM
+      1 shabir-VirtualBox gnome-shell[1413]: Running GNOME Shell (using mutter 42.9) as a Wayland display server
+      1 shabir-VirtualBox gnome-shell[1413]: Telepathy is not available, chat integration will be disabled.
+      1 shabir-VirtualBox gnome-shell[1413]: Unset XDG_SESSION_ID, getCurrentSessionProxy() called outside a user session. Asking logind directly.
+      1 shabir-VirtualBox gnome-shell[1413]: Using public X11 display :0, (using :1 for managed services)
+      1 shabir-VirtualBox gnome-shell[1413]: Using Wayland display name 'wayland-0'
+      1 shabir-VirtualBox gnome-shell[1413]: Will monitor session 2
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: last_user_time (208671) is greater than comparison timestamp (208640).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: last_user_time (208732) is greater than comparison timestamp (208702).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: last_user_time (208980) is greater than comparison timestamp (208948).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: last_user_time (217091) is greater than comparison timestamp (217060).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: W1 appears to be one of the offending windows with a timestamp of 208671.  Working around...
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: W1 appears to be one of the offending windows with a timestamp of 208732.  Working around...
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: W1 appears to be one of the offending windows with a timestamp of 208980.  Working around...
+      1 shabir-VirtualBox gnome-shell[1413]: Window manager warning: W1 appears to be one of the offending windows with a timestamp of 217091.  Working around...
+      1 shabir-VirtualBox gnome-shell[877]: Added device '/dev/dri/card0' (vmwgfx) using non-atomic mode setting.
+      1 shabir-VirtualBox gnome-shell[877]: ATK Bridge is disabled but a11y has already been enabled.
+      1 shabir-VirtualBox gnome-shell[877]: Boot VGA GPU /dev/dri/card0 selected as primary
+      1 shabir-VirtualBox gnome-shell[877]: Created gbm renderer for '/dev/dri/card0'
+      1 shabir-VirtualBox gnome-shell[877]: Disabling DMA buffer screen sharing (implicit modifiers not supported)
+      1 shabir-VirtualBox gnome-shell[877]: Disabling DMA buffer screen sharing (not hardware accelerated)
+      1 shabir-VirtualBox gnome-shell[877]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+      1 shabir-VirtualBox gnome-shell[877]: Extension ding@rastersoft.com already installed in /usr/share/gnome-shell/extensions/ding@rastersoft.com. /usr/share/gnome-shell/extensions/ding@rastersoft.com will not be loaded
+      1 shabir-VirtualBox gnome-shell[877]: Extension ubuntu-appindicators@ubuntu.com already installed in /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com. /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com will not be loaded
+      1 shabir-VirtualBox gnome-shell[877]: Extension ubuntu-dock@ubuntu.com already installed in /usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com. /usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com will not be loaded
+      1 shabir-VirtualBox gnome-shell[877]: Failed to initialize accelerated iGPU/dGPU framebuffer sharing: Not hardware accelerated
+      2 shabir-VirtualBox gnome-shell[877]: ibus_bus_call_async: assertion 'ibus_bus_is_connected (bus)' failed
+      1 shabir-VirtualBox gnome-shell[877]: JS ERROR: Failed to initialize fprintd service: Gio.IOErrorEnum: GDBus.Error:net.reactivated.Fprint.Error.NoSuchDevice: No devices available
+      1 shabir-VirtualBox gnome-shell[877]: JS ERROR: TypeError: this._managerProxy is undefined
+      1 shabir-VirtualBox gnome-shell[877]: Registering session with GDM
+      1 shabir-VirtualBox gnome-shell[877]: Running GNOME Shell (using mutter 42.9) as a Wayland display server
+      1 shabir-VirtualBox gnome-shell[877]: Unset XDG_SESSION_ID, getCurrentSessionProxy() called outside a user session. Asking logind directly.
+      1 shabir-VirtualBox gnome-shell[877]: Using public X11 display :1024, (using :1025 for managed services)
+      1 shabir-VirtualBox gnome-shell[877]: Using Wayland display name 'wayland-0'
+      1 shabir-VirtualBox gnome-shell[877]: Will monitor session c1
+      1 shabir-VirtualBox goa-daemon[1431]: goa-daemon version 3.44.0 starting
+      1 shabir-VirtualBox goa-daemon[959]: goa-daemon version 3.44.0 starting
+      1 shabir-VirtualBox gsd-color[1054]: failed to get edid: unable to get EDID for output
+      2 shabir-VirtualBox gsd-color[1054]: unable to get EDID for xrandr-Virtual-1: unable to get EDID for output
+      1 shabir-VirtualBox gsd-color[1653]: failed to get edid: unable to get EDID for output
+      1 shabir-VirtualBox gsd-color[1653]: unable to get EDID for xrandr-Virtual-1: unable to get EDID for output
+      1 shabir-VirtualBox gsd-media-keys[1065]: Failed to grab accelerator for keybinding settings:hibernate
+      1 shabir-VirtualBox gsd-media-keys[1065]: Failed to grab accelerator for keybinding settings:playback-repeat
+      1 shabir-VirtualBox gsd-media-keys[1666]: Failed to grab accelerator for keybinding settings:hibernate
+      1 shabir-VirtualBox gsd-media-keys[1666]: Failed to grab accelerator for keybinding settings:playback-repeat
+      2 shabir-VirtualBox gsd-sharing[1048]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+      1 shabir-VirtualBox gvfsd[843]: A connection to the bus can't be made
+      1 shabir-VirtualBox kernel: ACPI: 2 ACPI AML tables successfully acquired and loaded
+      1 shabir-VirtualBox kernel: ACPI: AC: AC Adapter [AC] (on-line)
+      1 shabir-VirtualBox kernel: ACPI: Added _OSI(3.0 _SCP Extensions)
+      1 shabir-VirtualBox kernel: ACPI: Added _OSI(Module Device)
+      1 shabir-VirtualBox kernel: ACPI: Added _OSI(Processor Aggregator Device)
+      1 shabir-VirtualBox kernel: ACPI: Added _OSI(Processor Device)
+      1 shabir-VirtualBox kernel: ACPI: APIC 0x000000005F6F0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+      1 shabir-VirtualBox kernel: ACPI: battery: Slot [BAT0] (battery present)
+      1 shabir-VirtualBox kernel: ACPI: bus type drm_connector registered
+      1 shabir-VirtualBox kernel: ACPI: bus type USB registered
+      1 shabir-VirtualBox kernel: ACPI: button: Power Button [PWRF]
+      1 shabir-VirtualBox kernel: ACPI: button: Sleep Button [SLPF]
+      1 shabir-VirtualBox kernel: ACPI: Core revision 20230331
+      1 shabir-VirtualBox kernel: ACPI: DSDT 0x000000005F6F0610 002353 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+      1 shabir-VirtualBox kernel: ACPI: Early table checksum verification disabled
+      1 shabir-VirtualBox kernel: ACPI: Enabled 2 GPEs in block 00 to 07
+      1 shabir-VirtualBox kernel: ACPI: FACP 0x000000005F6F00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+      2 shabir-VirtualBox kernel: ACPI: FACS 0x000000005F6F0200 000040
+      1 shabir-VirtualBox kernel: ACPI: Interpreter enabled
+      1 shabir-VirtualBox kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+      1 shabir-VirtualBox kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+      1 shabir-VirtualBox kernel: ACPI: PCI: Interrupt link LNKA configured for IRQ 11
+      1 shabir-VirtualBox kernel: ACPI: PCI: Interrupt link LNKB configured for IRQ 10
+      1 shabir-VirtualBox kernel: ACPI: PCI: Interrupt link LNKC configured for IRQ 9
+      1 shabir-VirtualBox kernel: ACPI: PCI: Interrupt link LNKD configured for IRQ 11
+      1 shabir-VirtualBox kernel: ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+      1 shabir-VirtualBox kernel: acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+      1 shabir-VirtualBox kernel: ACPI: PM: (supports S0 S5)
+      1 shabir-VirtualBox kernel: ACPI: PM-Timer IO Port: 0x4008
+      1 shabir-VirtualBox kernel: acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended configuration space under this bridge
+      1 shabir-VirtualBox kernel: acpi PNP0A03:00: _OSC: not requesting OS control; OS requires [ExtendedConfig ASPM ClockPM MSI]
+      1 shabir-VirtualBox kernel: acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI EDR HPX-Type3]
+      1 shabir-VirtualBox kernel: ACPI: Reserving APIC table memory at [mem 0x5f6f0240-0x5f6f0293]
+      1 shabir-VirtualBox kernel: ACPI: Reserving DSDT table memory at [mem 0x5f6f0610-0x5f6f2962]
+      1 shabir-VirtualBox kernel: ACPI: Reserving FACP table memory at [mem 0x5f6f00f0-0x5f6f01e3]
+      2 shabir-VirtualBox kernel: ACPI: Reserving FACS table memory at [mem 0x5f6f0200-0x5f6f023f]
+      1 shabir-VirtualBox kernel: ACPI: Reserving SSDT table memory at [mem 0x5f6f02a0-0x5f6f060b]
+      1 shabir-VirtualBox kernel: ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+      1 shabir-VirtualBox kernel: ACPI: SSDT 0x000000005F6F02A0 00036C (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+      1 shabir-VirtualBox kernel: ACPI: Using ACPI (MADT) for SMP configuration information
+      1 shabir-VirtualBox kernel: ACPI: Using IOAPIC for interrupt routing
+      1 shabir-VirtualBox kernel: ACPI: video: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+      1 shabir-VirtualBox kernel: ACPI: XSDT 0x000000005F6F0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+      1 shabir-VirtualBox kernel: Adding 2355196k swap on /swapfile.  Priority:-2 extents:6 across:2519036k FS
+      1 shabir-VirtualBox kernel: AES CTR mode by8 optimization enabled
+      1 shabir-VirtualBox kernel: ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+      1 shabir-VirtualBox kernel: ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+      1 shabir-VirtualBox kernel: ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+      1 shabir-VirtualBox kernel: ahci 0000:00:0d.0: version 3.0
+      1 shabir-VirtualBox kernel:   AMD AuthenticAMD
+      1 shabir-VirtualBox kernel: APIC: Switch to symmetric I/O mode setup
+      1 shabir-VirtualBox kernel: AppArmor: AppArmor Filesystem Enabled
+      1 shabir-VirtualBox kernel: AppArmor: AppArmor initialized
+      1 shabir-VirtualBox kernel: AppArmor: AppArmor sha1 policy hashing enabled
+      1 shabir-VirtualBox kernel: Asymmetric key parser 'x509' registered
+      1 shabir-VirtualBox kernel: ata1: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+      1 shabir-VirtualBox kernel: ata2.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+      1 shabir-VirtualBox kernel: ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+      1 shabir-VirtualBox kernel: ata3.00: 44932064 sectors, multi 128: LBA48 NCQ (depth 32)
+      1 shabir-VirtualBox kernel: ata3.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+      1 shabir-VirtualBox kernel: ata3.00: configured for UDMA/133
+      1 shabir-VirtualBox kernel: ata3: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+      1 shabir-VirtualBox kernel: ata3: SATA max UDMA/133 abar m8192@0xf0806000 port 0xf0806100 irq 21
+      1 shabir-VirtualBox kernel: ata_piix 0000:00:01.1: version 2.13
+      1 shabir-VirtualBox kernel: audit: initializing netlink subsys (disabled)
+      1 shabir-VirtualBox kernel: audit: type=1107 audit(1707914803.833:58): pid=424 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/PolicyKit1/Authority" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.3" pid=1801 label="snap.snap-store.ubuntu-software" peer_pid=438 peer_label="unconfined"
+      1 shabir-VirtualBox kernel: audit: type=1107 audit(1707914803.833:59): pid=424 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/PolicyKit1/Authority" interface="org.freedesktop.PolicyKit1.Authority" member="CheckAuthorization" mask="send" name=":1.3" pid=1801 label="snap.snap-store.ubuntu-software" peer_pid=438 peer_label="unconfined"
+      1 shabir-VirtualBox kernel: audit: type=1107 audit(1707914803.853:60): pid=424 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/PolicyKit1/Authority" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.3" pid=1801 label="snap.snap-store.ubuntu-software" peer_pid=438 peer_label="unconfined"
+      1 shabir-VirtualBox kernel: audit: type=1107 audit(1707914803.857:61): pid=424 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/PolicyKit1/Authority" interface="org.freedesktop.PolicyKit1.Authority" member="CheckAuthorization" mask="send" name=":1.3" pid=1801 label="snap.snap-store.ubuntu-software" peer_pid=438 peer_label="unconfined"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914709.607:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=297 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914709.627:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=298 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914709.627:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=298 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914709.667:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=300 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914709.667:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=300 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914709.667:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=300 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914709.667:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=300 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914710.043:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince//sanitized_helper" pid=301 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914710.043:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince//snap_browsers" pid=301 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914710.043:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince" pid=301 comm="apparmor_parser"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914717.163:55): apparmor="DENIED" operation="capable" class="cap" profile="/usr/sbin/cupsd" pid=525 comm="cupsd" capability=12  capname="net_admin"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914727.055:56): apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/20671/usr/lib/snapd/snap-confine" pid=826 comm="snap-confine" capability=12  capname="net_admin"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914727.059:57): apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/20671/usr/lib/snapd/snap-confine" pid=826 comm="snap-confine" capability=38  capname="perfmon"
+      1 shabir-VirtualBox kernel: audit: type=1400 audit(1707914805.736:62): apparmor="DENIED" operation="open" class="file" profile="snap.snap-store.ubuntu-software" name="/etc/appstream.conf" pid=1801 comm="snap-store" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+      1 shabir-VirtualBox kernel: audit: type=2000 audit(1707914709.998:1): state=initialized audit_enabled=0 res=1
+      1 shabir-VirtualBox kernel: AVX version of gcm_enc/dec engaged.
+      1 shabir-VirtualBox kernel: BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+      1 shabir-VirtualBox kernel: BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+      1 shabir-VirtualBox kernel: BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+      1 shabir-VirtualBox kernel: BIOS-e820: [mem 0x0000000000100000-0x000000005f6effff] usable
+      1 shabir-VirtualBox kernel: BIOS-e820: [mem 0x000000005f6f0000-0x000000005f6fffff] ACPI data
+      1 shabir-VirtualBox kernel: BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+      1 shabir-VirtualBox kernel: BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+      1 shabir-VirtualBox kernel: BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+      1 shabir-VirtualBox kernel: BIOS-provided physical RAM map:
+      1 shabir-VirtualBox kernel: blacklist: Loading compiled-in revocation X.509 certificates
+      1 shabir-VirtualBox kernel: Block layer SCSI generic (bsg) driver version 0.4 loaded (major 243)
+      1 shabir-VirtualBox kernel: block sda: the capability attribute has been deprecated.
+      1 shabir-VirtualBox kernel:     BOOT_IMAGE=/boot/vmlinuz-6.5.0-17-generic
+      1 shabir-VirtualBox kernel: Booting paravirtualized kernel on KVM
+      1 shabir-VirtualBox kernel: Built 1 zonelists, mobility grouping on.  Total pages: 384532
+      1 shabir-VirtualBox kernel: Calibrating delay loop (skipped) preset value.. 4983.81 BogoMIPS (lpj=9967624)
+      1 shabir-VirtualBox kernel: cdrom: Uniform CD-ROM driver Revision: 3.20
+      1 shabir-VirtualBox kernel:   Centaur CentaurHauls
+      1 shabir-VirtualBox kernel: clk: Disabling unused clocks
+      1 shabir-VirtualBox kernel: clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+      1 shabir-VirtualBox kernel: clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+      1 shabir-VirtualBox kernel: clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+      1 shabir-VirtualBox kernel: clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+      1 shabir-VirtualBox kernel: clocksource: Switched to clocksource kvm-clock
+      1 shabir-VirtualBox kernel: clocksource: Switched to clocksource tsc
+      1 shabir-VirtualBox kernel: clocksource: tsc-early: mask: 0xffffffffffffffff max_cycles: 0x23eb5badc15, max_idle_ns: 440795233937 ns
+      1 shabir-VirtualBox kernel: clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x23eb5badc15, max_idle_ns: 440795233937 ns
+      1 shabir-VirtualBox kernel: Command line: BOOT_IMAGE=/boot/vmlinuz-6.5.0-17-generic root=UUID=ef0456ca-e7e8-4416-a1fe-22f11f136aef ro quiet splash
+      1 shabir-VirtualBox kernel: Console: colour VGA+ 80x25
+      1 shabir-VirtualBox kernel: Console: switching to colour dummy device 80x25
+      1 shabir-VirtualBox kernel: Console: switching to colour frame buffer device 160x50
+      1 shabir-VirtualBox kernel: cpuidle: using governor ladder
+      1 shabir-VirtualBox kernel: cpuidle: using governor menu
+      1 shabir-VirtualBox kernel: cryptd: max_cpu_qlen set to 1000
+      1 shabir-VirtualBox kernel: Dentry cache hash table entries: 262144 (order: 9, 2097152 bytes, linear)
+      1 shabir-VirtualBox kernel:   Device   empty
+      1 shabir-VirtualBox kernel: device-mapper: core: CONFIG_IMA_DISABLE_HTABLE is disabled. Duplicate IMA measurements will not be recorded in the IMA log.
+      1 shabir-VirtualBox kernel: device-mapper: ioctl: 4.48.0-ioctl (2023-03-01) initialised: dm-devel@redhat.com
+      1 shabir-VirtualBox kernel: device-mapper: uevent: version 1.0.3
+      1 shabir-VirtualBox kernel: devtmpfs: initialized
+      1 shabir-VirtualBox kernel:   DMA32    [mem 0x0000000001000000-0x000000005f6effff]
+      1 shabir-VirtualBox kernel:   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+      1 shabir-VirtualBox kernel: DMA: preallocated 256 KiB GFP_KERNEL|GFP_DMA32 pool for atomic allocations
+      1 shabir-VirtualBox kernel: DMA: preallocated 256 KiB GFP_KERNEL|GFP_DMA pool for atomic allocations
+      1 shabir-VirtualBox kernel: DMA: preallocated 256 KiB GFP_KERNEL pool for atomic allocations
+      1 shabir-VirtualBox kernel: DMI: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+      1 shabir-VirtualBox kernel: [drm] Initialized vmwgfx 2.20.0 20211206 for 0000:00:02.0 on minor 0
+      1 shabir-VirtualBox kernel: drop_monitor: Initializing network drop monitor service
+      1 shabir-VirtualBox kernel: Dynamic Preempt: voluntary
+      1 shabir-VirtualBox kernel: e1000 0000:00:03.0 enp0s3: renamed from eth0
+      1 shabir-VirtualBox kernel: e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+      1 shabir-VirtualBox kernel: e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:91:cb:f8
+      1 shabir-VirtualBox kernel: e1000: Copyright (c) 1999-2006 Intel Corporation.
+      1 shabir-VirtualBox kernel: e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+      1 shabir-VirtualBox kernel: e1000: Intel(R) PRO/1000 Network Driver
+      1 shabir-VirtualBox kernel: e820: remove [mem 0x000a0000-0x000fffff] usable
+      1 shabir-VirtualBox kernel: e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+      1 shabir-VirtualBox kernel: e820: reserve RAM buffer [mem 0x5f6f0000-0x5fffffff]
+      1 shabir-VirtualBox kernel: e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+      1 shabir-VirtualBox kernel: Early memory node ranges
+      1 shabir-VirtualBox kernel: EDAC MC: Ver: 3.0.0
+      1 shabir-VirtualBox kernel: ehci-pci 0000:00:0b.0: EHCI Host Controller
+      1 shabir-VirtualBox kernel: ehci-pci 0000:00:0b.0: irq 19, io mem 0xf0805000
+      1 shabir-VirtualBox kernel: ehci-pci 0000:00:0b.0: new USB bus registered, assigned bus number 2
+      1 shabir-VirtualBox kernel: ehci-pci 0000:00:0b.0: USB 2.0 started, EHCI 1.00
+      1 shabir-VirtualBox kernel: EISA bus registered
+      1 shabir-VirtualBox kernel: evm: HMAC attrs: 0x1
+      1 shabir-VirtualBox kernel: evm: Initialising EVM extended attributes:
+      1 shabir-VirtualBox kernel: evm: security.apparmor
+      1 shabir-VirtualBox kernel: evm: security.capability
+      1 shabir-VirtualBox kernel: evm: security.ima
+      1 shabir-VirtualBox kernel: evm: security.selinux
+      1 shabir-VirtualBox kernel: evm: security.SMACK64
+      1 shabir-VirtualBox kernel: evm: security.SMACK64EXEC
+      1 shabir-VirtualBox kernel: evm: security.SMACK64MMAP
+      1 shabir-VirtualBox kernel: evm: security.SMACK64TRANSMUTE
+      1 shabir-VirtualBox kernel: EXT4-fs (sda3): mounted filesystem ef0456ca-e7e8-4416-a1fe-22f11f136aef ro with ordered data mode. Quota mode: none.
+      1 shabir-VirtualBox kernel: EXT4-fs (sda3): re-mounted ef0456ca-e7e8-4416-a1fe-22f11f136aef r/w. Quota mode: none.
+      1 shabir-VirtualBox kernel: Faking a node at [mem 0x0000000000000000-0x000000005f6effff]
+      1 shabir-VirtualBox kernel: Fallback order for Node 0: 0 
+      1 shabir-VirtualBox kernel: fbcon: vmwgfxdrmfb (fb0) is primary device
+      1 shabir-VirtualBox kernel: found SMP MP-table at [mem 0x0009fff0-0x0009ffff]
+      1 shabir-VirtualBox kernel: Freeing initrd memory: 68580K
+      1 shabir-VirtualBox kernel: Freeing SMP alternatives memory: 44K
+      1 shabir-VirtualBox kernel: Freeing unused decrypted memory: 2036K
+      1 shabir-VirtualBox kernel: Freeing unused kernel image (initmem) memory: 4792K
+      1 shabir-VirtualBox kernel: Freeing unused kernel image (rodata/data gap) memory: 1156K
+      1 shabir-VirtualBox kernel: ftrace: allocated 216 pages with 4 groups
+      1 shabir-VirtualBox kernel: ftrace: allocating 55206 entries in 216 pages
+      1 shabir-VirtualBox kernel: fuse: init (API version 7.38)
+      1 shabir-VirtualBox kernel: futex hash table entries: 256 (order: 2, 16384 bytes, linear)
+      1 shabir-VirtualBox kernel: hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+      1 shabir-VirtualBox kernel: hid: raw HID events driver (C) Jiri Kosina
+      1 shabir-VirtualBox kernel:     HOME=/
+      1 shabir-VirtualBox kernel: hub 1-0:1.0: 12 ports detected
+      1 shabir-VirtualBox kernel: hub 1-0:1.0: USB hub found
+      1 shabir-VirtualBox kernel: hub 2-0:1.0: 12 ports detected
+      1 shabir-VirtualBox kernel: hub 2-0:1.0: USB hub found
+      1 shabir-VirtualBox kernel: HugeTLB: 28 KiB vmemmap can be freed for a 2.00 MiB page
+      1 shabir-VirtualBox kernel: HugeTLB: registered 2.00 MiB page size, pre-allocated 0 pages
+      1 shabir-VirtualBox kernel:   Hygon HygonGenuine
+      1 shabir-VirtualBox kernel: Hypervisor detected: KVM
+      1 shabir-VirtualBox kernel: i2c_dev: i2c /dev entries driver
+      1 shabir-VirtualBox kernel: i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+      1 shabir-VirtualBox kernel: ima: Allocated hash algorithm: sha1
+      1 shabir-VirtualBox kernel: ima: No architecture policies found
+      1 shabir-VirtualBox kernel: ima: No TPM chip found, activating TPM-bypass!
+      1 shabir-VirtualBox kernel:     /init
+      1 shabir-VirtualBox kernel: Initialise system trusted keyrings
+      1 shabir-VirtualBox kernel: Initmem setup node 0 [mem 0x0000000000001000-0x000000005f6effff]
+      1 shabir-VirtualBox kernel: Inode-cache hash table entries: 131072 (order: 8, 1048576 bytes, linear)
+      1 shabir-VirtualBox kernel: input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input2
+      1 shabir-VirtualBox kernel: input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input5
+      1 shabir-VirtualBox kernel: input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+      1 shabir-VirtualBox kernel: input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+      1 shabir-VirtualBox kernel: input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input4
+      1 shabir-VirtualBox kernel: input: VirtualBox mouse integration as /devices/pci0000:00/0000:00:04.0/input/input7
+      1 shabir-VirtualBox kernel: input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0001/input/input6
+      1 shabir-VirtualBox kernel: In-situ OAM (IOAM) with IPv6
+      1 shabir-VirtualBox kernel: integrity: Machine keyring initialized
+      1 shabir-VirtualBox kernel: integrity: Platform Keyring initialized
+      1 shabir-VirtualBox kernel:   Intel GenuineIntel
+      1 shabir-VirtualBox kernel: intel_pstate: CPU model not supported
+      1 shabir-VirtualBox kernel: IOAPIC[0]: apic_id 1, version 32, address 0xfec00000, GSI 0-23
+      1 shabir-VirtualBox kernel: iommu: Default domain type: Translated
+      1 shabir-VirtualBox kernel: iommu: DMA domain TLB invalidation policy: lazy mode
+      1 shabir-VirtualBox kernel: io scheduler mq-deadline registered
+      1 shabir-VirtualBox kernel: IP idents hash table entries: 32768 (order: 6, 262144 bytes, linear)
+      1 shabir-VirtualBox kernel: IPI shorthand broadcast: enabled
+      1 shabir-VirtualBox kernel: kauditd_printk_skb: 43 callbacks suppressed
+      1 shabir-VirtualBox kernel: Kernel command line: BOOT_IMAGE=/boot/vmlinuz-6.5.0-17-generic root=UUID=ef0456ca-e7e8-4416-a1fe-22f11f136aef ro quiet splash
+      1 shabir-VirtualBox kernel: KERNEL supported cpus:
+      1 shabir-VirtualBox kernel: Kernel/User page tables isolation: enabled
+      1 shabir-VirtualBox kernel: Key type asymmetric registered
+      1 shabir-VirtualBox kernel: Key type blacklist registered
+      1 shabir-VirtualBox kernel: Key type dns_resolver registered
+      1 shabir-VirtualBox kernel: Key type encrypted registered
+      1 shabir-VirtualBox kernel: Key type fscrypt-provisioning registered
+      1 shabir-VirtualBox kernel: Key type .fscrypt registered
+      1 shabir-VirtualBox kernel: kprobes: kprobe jump-optimization is enabled. All kprobes are optimized if possible.
+      1 shabir-VirtualBox kernel: kvm-clock: Using msrs 4b564d01 and 4b564d00
+      1 shabir-VirtualBox kernel: kvm-clock: using sched offset of 8074375980 cycles
+      1 shabir-VirtualBox kernel: kvm-guest: PV spinlocks disabled, single CPU
+      1 shabir-VirtualBox kernel: landlock: Up and running.
+      1 shabir-VirtualBox kernel: Last level dTLB entries: 4KB 512, 2MB 32, 4MB 32, 1GB 0
+      1 shabir-VirtualBox kernel: Last level iTLB entries: 4KB 512, 2MB 8, 4MB 8
+      1 shabir-VirtualBox kernel: last_pfn = 0x5f6f0 max_arch_pfn = 0x400000000
+      1 shabir-VirtualBox kernel: ledtrig-cpu: registered to indicate activity on CPUs
+      1 shabir-VirtualBox kernel: libata version 3.00 loaded.
+      1 shabir-VirtualBox kernel: Linux agpgart interface v0.103
+      1 shabir-VirtualBox kernel: Linux version 6.5.0-17-generic (buildd@lcy02-amd64-043) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #17~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Jan 16 14:32:32 UTC 2 (Ubuntu 6.5.0-17.17~22.04.1-generic 6.5.8)
+      2 shabir-VirtualBox kernel: Loaded X.509 cert 'Build time autogenerated kernel key: 8e577d25b52d0ea8019e068cbc6bbff0a2d02a67'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Kernel Module Signing: 88f752e560a1e0737e31163a466ad7b70a850c19'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Live Patch Signing: 14df34d1a87cf37625abec039ef2bf521249b969'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2017): 242ade75ac4a15e50d50c84b0d45ff3eae707a03'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2019): c0746fd6c5da3ae827864651ad66ae47fe24b3e8'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v1): a8d54bbb3825cfb94fa13c9f8a594a195c107b8d'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v2): 4cf046892d6fd3c9a5b03f98d845f90851dc6a8c'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v3): 100437bb6de6e469b581e61cd66bce3ef4ed53af'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing: 61482aa2830d0ab2ad5af10b7250da9033ddcef0'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (ESM 2018): 365188c1d374d6b07c3c8f240f8ef722433d6a8b'
+      1 shabir-VirtualBox kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (Ubuntu Core 2019): c1d57b8f6b743f23ee41f4f7ee292f06eecadfb9'
+      1 shabir-VirtualBox kernel: Loading compiled-in module X.509 certificates
+      1 shabir-VirtualBox kernel: Loading compiled-in X.509 certificates
+      1 shabir-VirtualBox kernel: loop0: detected capacity change from 0 to 8
+      1 shabir-VirtualBox kernel: loop10: detected capacity change from 0 to 994336
+      1 shabir-VirtualBox kernel: loop11: detected capacity change from 0 to 1017816
+      1 shabir-VirtualBox kernel: loop12: detected capacity change from 0 to 187776
+      1 shabir-VirtualBox kernel: loop13: detected capacity change from 0 to 25240
+      1 shabir-VirtualBox kernel: loop14: detected capacity change from 0 to 109072
+      1 shabir-VirtualBox kernel: loop15: detected capacity change from 0 to 82800
+      1 shabir-VirtualBox kernel: loop16: detected capacity change from 0 to 904
+      1 shabir-VirtualBox kernel: loop17: detected capacity change from 0 to 8688
+      1 shabir-VirtualBox kernel: loop18: detected capacity change from 0 to 8
+      1 shabir-VirtualBox kernel: loop1: detected capacity change from 0 to 216720
+      1 shabir-VirtualBox kernel: loop2: detected capacity change from 0 to 215872
+      1 shabir-VirtualBox kernel: loop3: detected capacity change from 0 to 129944
+      1 shabir-VirtualBox kernel: loop4: detected capacity change from 0 to 130888
+      1 shabir-VirtualBox kernel: loop5: detected capacity change from 0 to 151784
+      1 shabir-VirtualBox kernel: loop6: detected capacity change from 0 to 151992
+      1 shabir-VirtualBox kernel: loop7: detected capacity change from 0 to 485800
+      1 shabir-VirtualBox kernel: loop8: detected capacity change from 0 to 536760
+      1 shabir-VirtualBox kernel: loop9: detected capacity change from 0 to 716176
+      1 shabir-VirtualBox kernel: loop: module loaded
+      1 shabir-VirtualBox kernel: lp: driver loaded but no devices found
+      1 shabir-VirtualBox kernel: LSM: initializing lsm=lockdown,capability,landlock,yama,apparmor,integrity
+      1 shabir-VirtualBox kernel: mctp: management component transport protocol core
+      1 shabir-VirtualBox kernel: MDS: Mitigation: Clear CPU buffers
+      1 shabir-VirtualBox kernel: [mem 0x5f700000-0xfebfffff] available for PCI devices
+      1 shabir-VirtualBox kernel: mem auto-init: stack:all(zero), heap alloc:on, heap free:off
+      1 shabir-VirtualBox kernel: Memory: 1404088K/1563192K available (20480K kernel code, 4264K rwdata, 13180K rodata, 4792K init, 17396K bss, 158844K reserved, 0K cma-reserved)
+      1 shabir-VirtualBox kernel: MMIO Stale Data: Unknown: No mitigations
+      1 shabir-VirtualBox kernel: Mount-cache hash table entries: 4096 (order: 3, 32768 bytes, linear)
+      1 shabir-VirtualBox kernel: Mountpoint-cache hash table entries: 4096 (order: 3, 32768 bytes, linear)
+      1 shabir-VirtualBox kernel: mousedev: PS/2 mouse device common for all mice
+      1 shabir-VirtualBox kernel: Movable zone start for each node
+      1 shabir-VirtualBox kernel: MPTCP token hash table entries: 2048 (order: 3, 49152 bytes, linear)
+      1 shabir-VirtualBox kernel: MTRRs disabled by BIOS
+      1 shabir-VirtualBox kernel: NetLabel:  domain hash size = 128
+      1 shabir-VirtualBox kernel: NetLabel: Initializing
+      1 shabir-VirtualBox kernel: NetLabel:  protocols = UNLABELED CIPSOv4 CALIPSO
+      1 shabir-VirtualBox kernel: NetLabel:  unlabeled traffic allowed by default
+      1 shabir-VirtualBox kernel: NET: Registered PF_INET6 protocol family
+      1 shabir-VirtualBox kernel: NET: Registered PF_INET protocol family
+      1 shabir-VirtualBox kernel: NET: Registered PF_MCTP protocol family
+      1 shabir-VirtualBox kernel: NET: Registered PF_NETLINK/PF_ROUTE protocol family
+      1 shabir-VirtualBox kernel: NET: Registered PF_PACKET protocol family
+      1 shabir-VirtualBox kernel: NET: Registered PF_UNIX/PF_LOCAL protocol family
+      1 shabir-VirtualBox kernel: NET: Registered PF_XDP protocol family
+      1 shabir-VirtualBox kernel: NMI watchdog: Perf NMI watchdog permanently disabled
+      1 shabir-VirtualBox kernel:   node   0: [mem 0x0000000000001000-0x000000000009efff]
+      1 shabir-VirtualBox kernel:   node   0: [mem 0x0000000000100000-0x000000005f6effff]
+      1 shabir-VirtualBox kernel: NODE_DATA(0) allocated [mem 0x5f6c5000-0x5f6effff]
+      1 shabir-VirtualBox kernel: No NUMA configuration found
+      1 shabir-VirtualBox kernel:   Normal   empty
+      1 shabir-VirtualBox kernel: NR_IRQS: 524544, nr_irqs: 256, preallocated irqs: 16
+      1 shabir-VirtualBox kernel: NX (Execute Disable) protection: active
+      1 shabir-VirtualBox kernel: ohci-pci 0000:00:06.0: irq 22, io mem 0xf0804000
+      1 shabir-VirtualBox kernel: ohci-pci 0000:00:06.0: new USB bus registered, assigned bus number 1
+      1 shabir-VirtualBox kernel: ohci-pci 0000:00:06.0: OHCI PCI host controller
+      1 shabir-VirtualBox kernel: On node 0, zone DMA: 1 pages in unavailable ranges
+      1 shabir-VirtualBox kernel: On node 0, zone DMA32: 2320 pages in unavailable ranges
+      1 shabir-VirtualBox kernel: On node 0, zone DMA: 97 pages in unavailable ranges
+      1 shabir-VirtualBox kernel: pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+      1 shabir-VirtualBox kernel: pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+      1 shabir-VirtualBox kernel: pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+      1 shabir-VirtualBox kernel: pci 0000:00:01.1: [8086:7111] type 00 class 0x01018a
+      1 shabir-VirtualBox kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+      1 shabir-VirtualBox kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+      1 shabir-VirtualBox kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+      1 shabir-VirtualBox kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+      1 shabir-VirtualBox kernel: pci 0000:00:01.1: reg 0x20: [io  0xd000-0xd00f]
+      1 shabir-VirtualBox kernel: pci 0000:00:02.0: [15ad:0405] type 00 class 0x030000
+      1 shabir-VirtualBox kernel: pci 0000:00:02.0: reg 0x10: [io  0xd010-0xd01f]
+      1 shabir-VirtualBox kernel: pci 0000:00:02.0: reg 0x14: [mem 0xe0000000-0xe0ffffff pref]
+      1 shabir-VirtualBox kernel: pci 0000:00:02.0: reg 0x18: [mem 0xf0000000-0xf01fffff]
+      1 shabir-VirtualBox kernel: pci 0000:00:02.0: vgaarb: bridge control possible
+      1 shabir-VirtualBox kernel: pci 0000:00:02.0: vgaarb: setting as boot VGA device
+      1 shabir-VirtualBox kernel: pci 0000:00:02.0: vgaarb: VGA device added: decodes=io+mem,owns=io+mem,locks=none
+      1 shabir-VirtualBox kernel: pci 0000:00:02.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+      1 shabir-VirtualBox kernel: pci 0000:00:03.0: [8086:100e] type 00 class 0x020000
+      1 shabir-VirtualBox kernel: pci 0000:00:03.0: reg 0x10: [mem 0xf0200000-0xf021ffff]
+      1 shabir-VirtualBox kernel: pci 0000:00:03.0: reg 0x18: [io  0xd020-0xd027]
+      1 shabir-VirtualBox kernel: pci 0000:00:04.0: [80ee:cafe] type 00 class 0x088000
+      1 shabir-VirtualBox kernel: pci 0000:00:04.0: reg 0x10: [io  0xd040-0xd05f]
+      1 shabir-VirtualBox kernel: pci 0000:00:04.0: reg 0x14: [mem 0xf0400000-0xf07fffff]
+      1 shabir-VirtualBox kernel: pci 0000:00:04.0: reg 0x18: [mem 0xf0800000-0xf0803fff pref]
+      1 shabir-VirtualBox kernel: pci 0000:00:05.0: [8086:2415] type 00 class 0x040100
+      1 shabir-VirtualBox kernel: pci 0000:00:05.0: reg 0x10: [io  0xd100-0xd1ff]
+      1 shabir-VirtualBox kernel: pci 0000:00:05.0: reg 0x14: [io  0xd200-0xd23f]
+      1 shabir-VirtualBox kernel: pci 0000:00:06.0: [106b:003f] type 00 class 0x0c0310
+      1 shabir-VirtualBox kernel: pci 0000:00:06.0: reg 0x10: [mem 0xf0804000-0xf0804fff]
+      1 shabir-VirtualBox kernel: pci 0000:00:07.0: [8086:7113] type 00 class 0x068000
+      1 shabir-VirtualBox kernel: pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+      1 shabir-VirtualBox kernel: pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by PIIX4 SMB
+      1 shabir-VirtualBox kernel: pci 0000:00:0b.0: [8086:265c] type 00 class 0x0c0320
+      1 shabir-VirtualBox kernel: pci 0000:00:0b.0: reg 0x10: [mem 0xf0805000-0xf0805fff]
+      1 shabir-VirtualBox kernel: pci 0000:00:0d.0: [8086:2829] type 00 class 0x010601
+      1 shabir-VirtualBox kernel: pci 0000:00:0d.0: reg 0x10: [io  0xd240-0xd247]
+      1 shabir-VirtualBox kernel: pci 0000:00:0d.0: reg 0x14: [io  0xd248-0xd24b]
+      1 shabir-VirtualBox kernel: pci 0000:00:0d.0: reg 0x18: [io  0xd250-0xd257]
+      1 shabir-VirtualBox kernel: pci 0000:00:0d.0: reg 0x1c: [io  0xd258-0xd25b]
+      1 shabir-VirtualBox kernel: pci 0000:00:0d.0: reg 0x20: [io  0xd260-0xd26f]
+      1 shabir-VirtualBox kernel: pci 0000:00:0d.0: reg 0x24: [mem 0xf0806000-0xf0807fff]
+      1 shabir-VirtualBox kernel: pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+      1 shabir-VirtualBox kernel: pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+      1 shabir-VirtualBox kernel: pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+      1 shabir-VirtualBox kernel: pci_bus 0000:00: resource 7 [mem 0x5f700000-0xfdffffff window]
+      1 shabir-VirtualBox kernel: pci_bus 0000:00: root bus resource [bus 00-ff]
+      1 shabir-VirtualBox kernel: pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+      1 shabir-VirtualBox kernel: pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+      1 shabir-VirtualBox kernel: pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+      1 shabir-VirtualBox kernel: pci_bus 0000:00: root bus resource [mem 0x5f700000-0xfdffffff window]
+      1 shabir-VirtualBox kernel: PCI: CLS 0 bytes, default 64
+      1 shabir-VirtualBox kernel: PCI host bridge to bus 0000:00
+      1 shabir-VirtualBox kernel: PCI: pci_cache_line_size set to 64 bytes
+      1 shabir-VirtualBox kernel: PCI: Using ACPI for IRQ routing
+      1 shabir-VirtualBox kernel: PCI: Using configuration type 1 for base access
+      1 shabir-VirtualBox kernel: PCI: Using E820 reservations for host bridge windows
+      1 shabir-VirtualBox kernel: PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+      1 shabir-VirtualBox kernel: pcpu-alloc: [0] 0 
+      1 shabir-VirtualBox kernel: pcpu-alloc: s221184 r8192 d28672 u2097152 alloc=1*2097152
+      1 shabir-VirtualBox kernel: percpu: Embedded 63 pages/cpu s221184 r8192 d28672 u2097152
+      1 shabir-VirtualBox kernel: Performance Events: unsupported p6 CPU model 58 no PMU driver, software events only.
+      1 shabir-VirtualBox kernel: pid_max: default: 32768 minimum: 301
+      1 shabir-VirtualBox kernel: piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+      1 shabir-VirtualBox kernel: pinctrl core: initialized pinctrl subsystem
+      1 shabir-VirtualBox kernel: platform eisa.0: Cannot allocate resource for EISA slot 1
+      1 shabir-VirtualBox kernel: platform eisa.0: Cannot allocate resource for EISA slot 2
+      1 shabir-VirtualBox kernel: platform eisa.0: Cannot allocate resource for EISA slot 3
+      1 shabir-VirtualBox kernel: platform eisa.0: Cannot allocate resource for EISA slot 4
+      1 shabir-VirtualBox kernel: platform eisa.0: Cannot allocate resource for EISA slot 5
+      1 shabir-VirtualBox kernel: platform eisa.0: Cannot allocate resource for EISA slot 6
+      1 shabir-VirtualBox kernel: platform eisa.0: Cannot allocate resource for EISA slot 7
+      1 shabir-VirtualBox kernel: platform eisa.0: Cannot allocate resource for EISA slot 8
+      1 shabir-VirtualBox kernel: platform eisa.0: EISA: Cannot allocate resource for mainboard
+      1 shabir-VirtualBox kernel: platform eisa.0: EISA: Detected 0 cards
+      1 shabir-VirtualBox kernel: platform eisa.0: Probing EISA bus 0
+      1 shabir-VirtualBox kernel: platform rtc_cmos: registered platform RTC device (no PNP device found)
+      1 shabir-VirtualBox kernel: PM: hibernation: Registered nosave memory: [mem 0x00000000-0x00000fff]
+      1 shabir-VirtualBox kernel: PM: hibernation: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+      1 shabir-VirtualBox kernel: PM: hibernation: Registered nosave memory: [mem 0x000a0000-0x000effff]
+      1 shabir-VirtualBox kernel: PM: hibernation: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+      1 shabir-VirtualBox kernel: PM:   Magic number: 12:534:784
+      1 shabir-VirtualBox kernel: PM: RTC time: 12:45:00, date: 2024-02-14
+      1 shabir-VirtualBox kernel: pnp: PnP ACPI: found 2 devices
+      1 shabir-VirtualBox kernel: pnp: PnP ACPI init
+      1 shabir-VirtualBox kernel: Policy zone: DMA32
+      1 shabir-VirtualBox kernel: ppdev: user-space parallel port driver
+      1 shabir-VirtualBox kernel: PPP generic driver version 2.4.2
+      1 shabir-VirtualBox kernel: pps_core: LinuxPPS API ver. 1 registered
+      1 shabir-VirtualBox kernel: pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+      1 shabir-VirtualBox kernel: printk: console [tty0] enabled
+      1 shabir-VirtualBox kernel: process: using mwait in idle threads
+      1 shabir-VirtualBox kernel: PTP clock support registered
+      1 shabir-VirtualBox kernel: RAMDISK: [mem 0x2f9fd000-0x33cf5fff]
+      1 shabir-VirtualBox kernel: random: crng init done
+      1 shabir-VirtualBox kernel: RAPL PMU: API unit is 2^-32 Joules, 0 fixed counters, 10737418240 ms ovfl timer
+      1 shabir-VirtualBox kernel: RAS: Correctable Errors collector initialized.
+      1 shabir-VirtualBox kernel: rcu: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=1
+      1 shabir-VirtualBox kernel: rcu: Hierarchical SRCU implementation.
+      1 shabir-VirtualBox kernel: rcu:         Max phase no-delay instances is 1000.
+      1 shabir-VirtualBox kernel: rcu: Preemptible hierarchical RCU implementation.
+      1 shabir-VirtualBox kernel: rcu: RCU calculated value of scheduler-enlistment delay is 25 jiffies.
+      1 shabir-VirtualBox kernel: rcu:         RCU restricting CPUs from NR_CPUS=8192 to nr_cpu_ids=1.
+      1 shabir-VirtualBox kernel: rcu: srcu_init: Setting srcu_struct sizes based on contention.
+      1 shabir-VirtualBox kernel: RCU Tasks Rude: Setting shift to 0 and lim to 1 rcu_task_cb_adjust=1.
+      1 shabir-VirtualBox kernel: RCU Tasks: Setting shift to 0 and lim to 1 rcu_task_cb_adjust=1.
+      1 shabir-VirtualBox kernel: RCU Tasks Trace: Setting shift to 0 and lim to 1 rcu_task_cb_adjust=1.
+      1 shabir-VirtualBox kernel: registered taskstats version 1
+      2 shabir-VirtualBox kernel: rfkill: input handler disabled
+      1 shabir-VirtualBox kernel: rfkill: input handler enabled
+      1 shabir-VirtualBox kernel: rtc_cmos rtc_cmos: alarms up to one day, 114 bytes nvram
+      1 shabir-VirtualBox kernel: rtc_cmos rtc_cmos: registered as rtc0
+      1 shabir-VirtualBox kernel: rtc_cmos rtc_cmos: setting system clock to 2024-02-14T12:45:00 UTC (1707914700)
+      1 shabir-VirtualBox kernel:         Rude variant of Tasks RCU enabled.
+      1 shabir-VirtualBox kernel: Run /init as init process
+      1 shabir-VirtualBox kernel: sched_clock: Marking stable (2008039112, 32619313)->(2045196274, -4537849)
+      1 shabir-VirtualBox kernel: scsi 1:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+      1 shabir-VirtualBox kernel: scsi 2:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+      1 shabir-VirtualBox kernel: scsi host0: ata_piix
+      1 shabir-VirtualBox kernel: scsi host1: ata_piix
+      1 shabir-VirtualBox kernel: scsi host2: ahci
+      1 shabir-VirtualBox kernel: SCSI subsystem initialized
+      1 shabir-VirtualBox kernel: sd 2:0:0:0: Attached scsi generic sg1 type 0
+      1 shabir-VirtualBox kernel: sd 2:0:0:0: [sda] 44932064 512-byte logical blocks: (23.0 GB/21.4 GiB)
+      1 shabir-VirtualBox kernel: sd 2:0:0:0: [sda] Attached SCSI disk
+      1 shabir-VirtualBox kernel: sd 2:0:0:0: [sda] Mode Sense: 00 3a 00 00
+      1 shabir-VirtualBox kernel: sd 2:0:0:0: [sda] Preferred minimum I/O size 512 bytes
+      1 shabir-VirtualBox kernel: sd 2:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+      1 shabir-VirtualBox kernel: sd 2:0:0:0: [sda] Write Protect is off
+      1 shabir-VirtualBox kernel:  sda: sda1 sda2 sda3
+      1 shabir-VirtualBox kernel: Segment Routing with IPv6
+      1 shabir-VirtualBox kernel: Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+      1 shabir-VirtualBox kernel: serio: i8042 AUX port at 0x60,0x64 irq 12
+      1 shabir-VirtualBox kernel: serio: i8042 KBD port at 0x60,0x64 irq 1
+      1 shabir-VirtualBox kernel: setup_percpu: NR_CPUS:8192 nr_cpumask_bits:1 nr_cpu_ids:1 nr_node_ids:1
+      1 shabir-VirtualBox kernel: shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+      1 shabir-VirtualBox kernel: signal: max sigframe size: 1776
+      1 shabir-VirtualBox kernel: SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+      1 shabir-VirtualBox kernel: SMBIOS 2.5 present.
+      1 shabir-VirtualBox kernel: smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+      1 shabir-VirtualBox kernel: smpboot: CPU0: Intel(R) Core(TM) i7-3667U CPU @ 2.00GHz (family: 0x6, model: 0x3a, stepping: 0x9)
+      1 shabir-VirtualBox kernel: smpboot: Max logical packages: 1
+      1 shabir-VirtualBox kernel: smpboot: Total of 1 processors activated (4983.81 BogoMIPS)
+      1 shabir-VirtualBox kernel: smp: Bringing up secondary CPUs ...
+      1 shabir-VirtualBox kernel: smp: Brought up 1 node, 1 CPU
+      1 shabir-VirtualBox kernel: snd_intel8x0 0000:00:05.0: allow list rate for 1028:0177 is 48000
+      1 shabir-VirtualBox kernel: Spectre V1 : Mitigation: usercopy/swapgs barriers and __user pointer sanitization
+      1 shabir-VirtualBox kernel: Spectre V2 : Mitigation: Retpolines
+      1 shabir-VirtualBox kernel: Spectre V2 : Spectre v2 / SpectreRSB : Filling RSB on VMEXIT
+      1 shabir-VirtualBox kernel: Spectre V2 : Spectre v2 / SpectreRSB mitigation: Filling RSB on context switch
+      1 shabir-VirtualBox kernel: Speculative Store Bypass: Vulnerable
+      1 shabir-VirtualBox kernel:     splash
+      1 shabir-VirtualBox kernel: squashfs: version 4.0 (2009/01/31) Phillip Lougher
+      1 shabir-VirtualBox kernel: sr 1:0:0:0: Attached scsi CD-ROM sr0
+      1 shabir-VirtualBox kernel: sr 1:0:0:0: Attached scsi generic sg0 type 5
+      1 shabir-VirtualBox kernel: sr 1:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+      1 shabir-VirtualBox kernel: SRBDS: Unknown: Dependent on hypervisor status
+      1 shabir-VirtualBox kernel: Switched APIC routing to physical x2apic.
+      1 shabir-VirtualBox kernel: systemd[1]: memfd_create() called without MFD_EXEC or MFD_NOEXEC_SEAL set
+      1 shabir-VirtualBox kernel: Table-perturb hash table entries: 65536 (order: 6, 262144 bytes, linear)
+      1 shabir-VirtualBox kernel: TCP bind hash table entries: 16384 (order: 7, 524288 bytes, linear)
+      1 shabir-VirtualBox kernel: TCP established hash table entries: 16384 (order: 5, 131072 bytes, linear)
+      1 shabir-VirtualBox kernel: TCP: Hash tables configured (established 16384 bind 16384)
+      1 shabir-VirtualBox kernel: tcp_listen_portaddr_hash hash table entries: 1024 (order: 2, 16384 bytes, linear)
+      1 shabir-VirtualBox kernel:     TERM=linux
+      1 shabir-VirtualBox kernel: thermal_sys: Registered thermal governor 'bang_bang'
+      1 shabir-VirtualBox kernel: thermal_sys: Registered thermal governor 'fair_share'
+      1 shabir-VirtualBox kernel: thermal_sys: Registered thermal governor 'power_allocator'
+      1 shabir-VirtualBox kernel: thermal_sys: Registered thermal governor 'step_wise'
+      1 shabir-VirtualBox kernel: thermal_sys: Registered thermal governor 'user_space'
+      1 shabir-VirtualBox kernel: ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+      1 shabir-VirtualBox kernel:         Tracing variant of Tasks RCU enabled.
+      1 shabir-VirtualBox kernel:         Trampoline variant of Tasks RCU enabled.
+      1 shabir-VirtualBox kernel: Trying to unpack rootfs image as initramfs...
+      1 shabir-VirtualBox kernel: tsc: Detected 2491.906 MHz processor
+      1 shabir-VirtualBox kernel: tun: Universal TUN/TAP device driver, 1.6
+      1 shabir-VirtualBox kernel: UDP hash table entries: 1024 (order: 3, 32768 bytes, linear)
+      1 shabir-VirtualBox kernel: UDP-Lite hash table entries: 1024 (order: 3, 32768 bytes, linear)
+      1 shabir-VirtualBox kernel: Unknown kernel command line parameters "splash BOOT_IMAGE=/boot/vmlinuz-6.5.0-17-generic", will be passed to user space.
+      1 shabir-VirtualBox kernel: usb 1-1: Manufacturer: VirtualBox
+      1 shabir-VirtualBox kernel: usb 1-1: new full-speed USB device number 2 using ohci-pci
+      1 shabir-VirtualBox kernel: usb 1-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+      1 shabir-VirtualBox kernel: usb 1-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+      1 shabir-VirtualBox kernel: usb 1-1: Product: USB Tablet
+      1 shabir-VirtualBox kernel: usbcore: registered new device driver usb
+      1 shabir-VirtualBox kernel: usbcore: registered new interface driver hub
+      1 shabir-VirtualBox kernel: usbcore: registered new interface driver usbfs
+      1 shabir-VirtualBox kernel: usbcore: registered new interface driver usbhid
+      1 shabir-VirtualBox kernel: usbhid: USB HID core driver
+      1 shabir-VirtualBox kernel: usb usb1: Manufacturer: Linux 6.5.0-17-generic ohci_hcd
+      1 shabir-VirtualBox kernel: usb usb1: New USB device found, idVendor=1d6b, idProduct=0001, bcdDevice= 6.05
+      1 shabir-VirtualBox kernel: usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+      1 shabir-VirtualBox kernel: usb usb1: Product: OHCI PCI host controller
+      1 shabir-VirtualBox kernel: usb usb1: SerialNumber: 0000:00:06.0
+      1 shabir-VirtualBox kernel: usb usb2: Manufacturer: Linux 6.5.0-17-generic ehci_hcd
+      1 shabir-VirtualBox kernel: usb usb2: New USB device found, idVendor=1d6b, idProduct=0002, bcdDevice= 6.05
+      1 shabir-VirtualBox kernel: usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+      1 shabir-VirtualBox kernel: usb usb2: Product: EHCI Host Controller
+      1 shabir-VirtualBox kernel: usb usb2: SerialNumber: 0000:00:0b.0
+      1 shabir-VirtualBox kernel: vbg_heartbeat_init: Setting up heartbeat to trigger every 2000 milliseconds
+      1 shabir-VirtualBox kernel: vboxguest: host-version: 7.0.14r161095 0x8000000f
+      1 shabir-VirtualBox kernel: VFS: Disk quotas dquot_6.6.0
+      1 shabir-VirtualBox kernel: VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+      1 shabir-VirtualBox kernel: vgaarb: loaded
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Available shader model: Legacy.
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Capabilities: rect copy, cursor, cursor bypass, cursor bypass 2, alpha cursor, extended fifo, pitchlock, irq mask, gmr, traces, gmr2, screen object 2, command buffers, 
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] DMA map mode: Caching DMA mappings.
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] fb0: vmwgfxdrmfb frame buffer device
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] FIFO at 0x00000000f0000000 size is 2048 kiB
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Fifo max 0x00200000 min 0x00001000 cap 0x00000355
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Legacy memory limits: VRAM = 16384 kB, FIFO = 2048 kB, surface = 507904 kB
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Max GMR ids is 8192
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Maximum display memory size is 16384 kiB
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Max number of GMR pages is 1048576
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] MOB limits: max mob size = 0 kB, max mob pages = 0
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Running on SVGA version 2.
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Screen Object display unit initialized
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] Using command buffers with DMA pool.
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: [drm] VRAM at 0x00000000e0000000 size is 16384 kiB
+      1 shabir-VirtualBox kernel: vmwgfx 0000:00:02.0: vgaarb: deactivate vga console
+      1 shabir-VirtualBox kernel:   with arguments:
+      1 shabir-VirtualBox kernel:   with environment:
+      1 shabir-VirtualBox kernel: workingset: timestamp_bits=36 max_order=19 bucket_order=0
+      1 shabir-VirtualBox kernel: Write protecting the kernel read-only data: 34816k
+      1 shabir-VirtualBox kernel: x2apic enabled
+      1 shabir-VirtualBox kernel: x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+      1 shabir-VirtualBox kernel: x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+      1 shabir-VirtualBox kernel: x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+      1 shabir-VirtualBox kernel: x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+      1 shabir-VirtualBox kernel: x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+      2 shabir-VirtualBox kernel: x86/mm: Checked W+X mappings: passed, no W+X pages found.
+      1 shabir-VirtualBox kernel: x86/mm: Checking user space page tables
+      1 shabir-VirtualBox kernel: x86/mm: Memory block size: 128MB
+      1 shabir-VirtualBox kernel: x86/PAT: Configuration [0-7]: WB  WC  UC- UC  WB  WP  UC- WT  
+      1 shabir-VirtualBox kernel: Yama: becoming mindful.
+      1 shabir-VirtualBox kernel: zbud: loaded
+      1 shabir-VirtualBox kernel:   zhaoxin   Shanghai  
+      1 shabir-VirtualBox kernel: Zone ranges:
+      1 shabir-VirtualBox ModemManager[513]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+      1 shabir-VirtualBox ModemManager[513]: <info>  ModemManager (version 1.20.0) starting in system bus...
+      1 shabir-VirtualBox mtp-probe[249]: bus: 1, device: 2 was not an MTP device
+      1 shabir-VirtualBox mtp-probe[249]: checking bus 1, device 2: "/sys/devices/pci0000:00/0000:00:06.0/usb1/1-1"
+      1 shabir-VirtualBox nautilus[1621]: Could not delete '.meta.isrunning': No such file or directory
+      1 shabir-VirtualBox nautilus[2810]: Connecting to org.freedesktop.Tracker3.Miner.Files
+      1 shabir-VirtualBox networkd-dispatcher[435]: ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+      1 shabir-VirtualBox networkd-dispatcher[435]: ERROR:Unknown state for interface NetworkctlListState(idx=2, name='enp0s3', type='ether', operational='n/a', administrative='unmanaged'): n/a
+      2 shabir-VirtualBox networkd-dispatcher[435]:   File "/usr/bin/networkd-dispatcher", line 298, in trigger_all
+      2 shabir-VirtualBox networkd-dispatcher[435]:   File "/usr/bin/networkd-dispatcher", line 348, in handle_state
+      1 shabir-VirtualBox networkd-dispatcher[435]: No valid path found for iw
+      2 shabir-VirtualBox networkd-dispatcher[435]:     raise UnknownState(operational_state)
+      2 shabir-VirtualBox networkd-dispatcher[435]:     self.handle_state(iface_name,
+      2 shabir-VirtualBox networkd-dispatcher[435]: Traceback (most recent call last):
+      2 shabir-VirtualBox networkd-dispatcher[435]: UnknownState: n/a
+      1 shabir-VirtualBox networkd-dispatcher[671]: WARNING: systemd-networkd is not running, output will be incomplete.
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914715.0286] NetworkManager (version 1.36.6) is starting... (for the first time)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914715.0341] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914715.1599] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914715.2673] manager[0x55abacfe3040]: monitoring kernel firmware directory '/lib/firmware'.
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914715.2845] monitoring ifupdown state file '/run/network/ifstate'.
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.3966] hostname: hostname: using hostnamed
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.3967] hostname: static hostname changed from (none) to "shabir-VirtualBox"
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.3997] dns-mgr[0x55abacfc02a0]: init: dns=systemd-resolved rc-manager=unmanaged (auto), plugin=systemd-resolved
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4032] manager[0x55abacfe3040]: rfkill: Wi-Fi hardware radio set enabled
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4096] manager[0x55abacfe3040]: rfkill: WWAN hardware radio set enabled
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4381] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-wifi.so)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4640] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-wwan.so)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4693] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-team.so)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4773] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-bluetooth.so)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4791] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-adsl.so)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4808] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4817] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4826] manager: Networking is enabled by state file
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4954] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-settings-plugin-ifupdown.so")
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4958] settings: Loaded settings plugin: keyfile (internal)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4961] ifupdown: management mode: unmanaged
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.4972] ifupdown: interfaces file /etc/network/interfaces doesn't exist
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.5107] dhcp-init: Using DHCP client 'internal'
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.5110] device (lo): carrier: link connected
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.5241] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.5501] manager: (enp0s3): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.5755] settings: (enp0s3): created default wired connection 'Wired connection 1'
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.5760] device (enp0s3): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.6086] device (enp0s3): carrier: link connected
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.6286] failed to open /run/network/ifstate
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.6872] modem-manager: ModemManager available
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.6981] device (enp0s3): state change: unavailable -> disconnected (reason 'none', sys-iface-state: 'managed')
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.7191] policy: auto-activating connection 'Wired connection 1' (9cb5698d-a6c9-3c3d-85ae-7c0fe7dff978)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.7245] device (enp0s3): Activation: starting connection 'Wired connection 1' (9cb5698d-a6c9-3c3d-85ae-7c0fe7dff978)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.7254] device (enp0s3): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.7348] manager: NetworkManager state is now CONNECTING
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.7452] device (enp0s3): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.7551] device (enp0s3): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.7756] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.7918] dhcp4 (enp0s3): state changed new lease, address=10.0.2.15
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.8420] device (enp0s3): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.8646] device (enp0s3): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.8680] device (enp0s3): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.9011] manager: NetworkManager state is now CONNECTED_LOCAL
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.9112] manager: NetworkManager state is now CONNECTED_SITE
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.9145] policy: set 'Wired connection 1' (enp0s3) as default for IPv4 routing and DNS
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.9681] device (enp0s3): Activation: successful, device activated.
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914719.9927] manager: startup complete
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914720.5135] manager: NetworkManager state is now CONNECTED_GLOBAL
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914736.6697] agent-manager: agent[2a4c8f1647425aec,:1.40/org.gnome.Shell.NetworkAgent/128]: agent registered
+      1 shabir-VirtualBox NetworkManager[425]: <info>  [1707914771.8617] agent-manager: agent[05eee7f043d8c64b,:1.81/org.gnome.Shell.NetworkAgent/1000]: agent registered
+      1 shabir-VirtualBox org.gnome.Shell.desktop[1019]: Failed to initialize glamor, falling back to sw
+      2 shabir-VirtualBox org.gnome.Shell.desktop[1019]: libEGL warning: egl: failed to create dri2 screen
+      2 shabir-VirtualBox org.gnome.Shell.desktop[1019]: Please use "-listenfd" instead.
+      2 shabir-VirtualBox org.gnome.Shell.desktop[1019]: VMware: No 3D enabled (0, Success).
+      2 shabir-VirtualBox org.gnome.Shell.desktop[1019]: (WW) Option "-listen" for file descriptors is deprecated
+      1 shabir-VirtualBox org.gnome.Shell.desktop[1223]: Errors from xkbcomp are not fatal to the X server
+      1 shabir-VirtualBox org.gnome.Shell.desktop[1223]: The XKEYBOARD keymap compiler (xkbcomp) reports:
+      1 shabir-VirtualBox org.gnome.Shell.desktop[1223]: > Warning:          Unsupported maximum keycode 708, clipping.
+      1 shabir-VirtualBox org.gnome.Shell.desktop[1223]: >                   X11 cannot support keycodes above 255.
+      2 shabir-VirtualBox org.gnome.Shell.desktop[877]: libEGL warning: egl: failed to create dri2 screen
+      1 shabir-VirtualBox org.gnome.Shell.desktop[877]: Window manager warning: Failed to parse saved session file: Failed to open file “/var/lib/gdm3/.config/mutter/sessions/10cfa3e5efdc7ed767170791472332394800000008450000.ms”: No such file or directory
+      1 shabir-VirtualBox PackageKit[1036]: daemon start
+      1 shabir-VirtualBox PackageKit[1036]: get-details transaction /156_cccacecc from uid 1000 finished with success after 987ms
+      1 shabir-VirtualBox PackageKit[1036]: get-updates transaction /152_dcecceda from uid 1000 finished with success after 8085ms
+      1 shabir-VirtualBox PackageKit[1036]: get-updates transaction /155_adbebdcb from uid 1000 finished with success after 1600ms
+      1 shabir-VirtualBox PackageKit[1036]: refresh-cache transaction /148_edaedbae from uid 1000 finished with success after 21409ms
+      1 shabir-VirtualBox PackageKit[1036]: refresh-cache transaction /149_dbdddedd from uid 1000 finished with cancelled-priority after 18991ms
+      1 shabir-VirtualBox PackageKit[1036]: refresh-cache transaction /151_dcacccbd from uid 1000 finished with cancelled-priority after 5525ms
+      1 shabir-VirtualBox PackageKit[1036]: resolve transaction /150_bacebaca from uid 1000 finished with success after 19725ms
+      1 shabir-VirtualBox PackageKit[1036]: search-file transaction /153_dceebebb from uid 1000 finished with success after 2534ms
+      1 shabir-VirtualBox PackageKit[1036]: search-file transaction /154_ebcbedbd from uid 1000 finished with success after 1201ms
+      1 shabir-VirtualBox packagekitd[1036]: Failed to fetch http://pk.archive.ubuntu.com/ubuntu/dists/jammy-backports/InRelease  
+      1 shabir-VirtualBox packagekitd[1036]: Failed to fetch http://pk.archive.ubuntu.com/ubuntu/dists/jammy-updates/InRelease  
+      1 shabir-VirtualBox packagekitd[1036]: Some index files failed to download. They have been ignored, or old ones used instead.
+      1 shabir-VirtualBox pkexec[3355]: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+      1 shabir-VirtualBox pkexec[3355]: shabir: Executing command [USER=root] [TTY=unknown] [CWD=/home/shabir] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+      1 shabir-VirtualBox polkitd[438]: started daemon version 0.105 using authority implementation `local' version `0.105'
+      1 shabir-VirtualBox polkitd(authority=local)[438]: Registered Authentication Agent for unix-session:2 (system bus name :1.81 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+      1 shabir-VirtualBox polkitd(authority=local)[438]: Registered Authentication Agent for unix-session:c1 (system bus name :1.40 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+      1 shabir-VirtualBox polkitd(authority=local)[438]: Unregistered Authentication Agent for unix-session:c1 (system bus name :1.40, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+      2 shabir-VirtualBox pulseaudio[1266]: Disabling timer-based scheduling because running inside a VM.
+      1 shabir-VirtualBox pulseaudio[1266]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+      2 shabir-VirtualBox pulseaudio[825]: Disabling timer-based scheduling because running inside a VM.
+      1 shabir-VirtualBox rsyslogd[441]: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2112.0]
+      1 shabir-VirtualBox rsyslogd[441]: [origin software="rsyslogd" swVersion="8.2112.0" x-pid="441" x-info="https://www.rsyslog.com"] start
+      1 shabir-VirtualBox rsyslogd[441]: rsyslogd's groupid changed to 111
+      1 shabir-VirtualBox rsyslogd[441]: rsyslogd's userid changed to 104
+      1 shabir-VirtualBox rtkit-daemon[835]: Canary thread running.
+      1 shabir-VirtualBox rtkit-daemon[835]: Running.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully called chroot.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully dropped privileges.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully limited resources.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 1264 of process 1264 owned by '1000' high priority at nice level -11.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 1266 of process 1266 owned by '1000' high priority at nice level -11.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 1357 of process 1265 owned by '1000' RT at priority 20.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 1391 of process 1264 owned by '1000' RT at priority 20.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 1398 of process 1266 owned by '1000' RT at priority 5.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 1399 of process 1266 owned by '1000' RT at priority 5.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 823 of process 823 owned by '128' high priority at nice level -11.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 825 of process 825 owned by '128' high priority at nice level -11.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 863 of process 824 owned by '128' RT at priority 20.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 864 of process 823 owned by '128' RT at priority 20.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 870 of process 825 owned by '128' RT at priority 5.
+      1 shabir-VirtualBox rtkit-daemon[835]: Successfully made thread 874 of process 825 owned by '128' RT at priority 5.
+      2 shabir-VirtualBox rtkit-daemon[835]: Supervising 10 threads of 6 processes of 2 users.
+      2 shabir-VirtualBox rtkit-daemon[835]: Supervising 11 threads of 6 processes of 2 users.
+      2 shabir-VirtualBox rtkit-daemon[835]: Supervising 1 threads of 1 processes of 1 users.
+      2 shabir-VirtualBox rtkit-daemon[835]: Supervising 3 threads of 3 processes of 1 users.
+      2 shabir-VirtualBox rtkit-daemon[835]: Supervising 4 threads of 3 processes of 1 users.
+      2 shabir-VirtualBox rtkit-daemon[835]: Supervising 5 threads of 3 processes of 1 users.
+      1 shabir-VirtualBox rtkit-daemon[835]: Supervising 6 threads of 3 processes of 1 users.
+      2 shabir-VirtualBox rtkit-daemon[835]: Supervising 7 threads of 4 processes of 2 users.
+      2 shabir-VirtualBox rtkit-daemon[835]: Supervising 9 threads of 6 processes of 2 users.
+      1 shabir-VirtualBox rtkit-daemon[835]: Watchdog thread running.
+      1 shabir-VirtualBox sh[1373]: /bin/sh: 1: initctl: not found
+      1 shabir-VirtualBox sh[1384]: dbus-update-activation-environment: setting SSH_AGENT_LAUNCHER=gnome-keyring
+      1 shabir-VirtualBox sh[1384]: dbus-update-activation-environment: setting SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+      1 shabir-VirtualBox snapd[452]: backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)
+      1 shabir-VirtualBox snapd[452]: daemon.go:247: started snapd/2.61.1 (series 16; classic) ubuntu/22.04 (amd64) linux/6.5.0-17-generic.
+      1 shabir-VirtualBox snapd[452]: daemon.go:340: adjusting startup timeout by 1m30s (pessimistic estimate of 30s plus 5s per snap)
+      1 shabir-VirtualBox snapd[452]: overlord.go:271: Acquiring state lock file
+      1 shabir-VirtualBox snapd[452]: overlord.go:276: Acquired state lock file
+      1 shabir-VirtualBox snapd-aa-prompt-listener[449]: AA Prompt listener not implemented
+      1 shabir-VirtualBox snapd-apparmor[332]: main.go:124: Loading profiles [/var/lib/snapd/apparmor/profiles/snap-confine.core.16574 /var/lib/snapd/apparmor/profiles/snap-confine.snapd.19457 /var/lib/snapd/apparmor/profiles/snap-confine.snapd.20671 /var/lib/snapd/apparmor/profiles/snap-update-ns.core /var/lib/snapd/apparmor/profiles/snap-update-ns.firefox /var/lib/snapd/apparmor/profiles/snap-update-ns.snap-store /var/lib/snapd/apparmor/profiles/snap-update-ns.snapd-desktop-integration /var/lib/snapd/apparmor/profiles/snap-update-ns.tree /var/lib/snapd/apparmor/profiles/snap.core.hook.configure /var/lib/snapd/apparmor/profiles/snap.firefox.firefox /var/lib/snapd/apparmor/profiles/snap.firefox.geckodriver /var/lib/snapd/apparmor/profiles/snap.firefox.hook.configure /var/lib/snapd/apparmor/profiles/snap.firefox.hook.connect-plug-host-hunspell /var/lib/snapd/apparmor/profiles/snap.firefox.hook.disconnect-plug-host-hunspell /var/lib/snapd/apparmor/profiles/snap.firefox.hook.post-refresh /var/lib/snapd/apparmor/profiles/snap.snap-store.hook.configure /var/lib/snapd/apparmor/profiles/snap.snap-store.snap-store /var/lib/snapd/apparmor/profiles/snap.snap-store.ubuntu-software /var/lib/snapd/apparmor/profiles/snap.snap-store.ubuntu-software-local-file /var/lib/snapd/apparmor/profiles/snap.snapd-desktop-integration.hook.configure /var/lib/snapd/apparmor/profiles/snap.snapd-desktop-integration.snapd-desktop-integration /var/lib/snapd/apparmor/profiles/snap.tree.tree]
+      1 shabir-VirtualBox snapd-desktop-i[1507]: Checking session /org/freedesktop/login1/session/_32...
+      1 shabir-VirtualBox snapd-desktop-i[1507]: Checking session /org/freedesktop/login1/session/c1...
+      1 shabir-VirtualBox snapd-desktop-i[1507]: Failed to do gtk init. Waiting for a new session with desktop capabilities.
+      1 shabir-VirtualBox snapd-desktop-i[1507]: Is a desktop session! Forcing a reload.
+      1 shabir-VirtualBox snapd-desktop-i[1507]: Loop exited. Forcing reload.
+      1 shabir-VirtualBox snapd-desktop-i[1507]: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+      1 shabir-VirtualBox snapd-desktop-i[1611]: All available theme snaps installed
+      1 shabir-VirtualBox snapd-desktop-i[1611]: New theme: gtk=Yaru icon=Yaru cursor=Yaru, sound=Yaru
+      1 shabir-VirtualBox snapd-desktop-i[1611]: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+      1 shabir-VirtualBox snapd-desktop-integration.snapd-desktop-integration[826]: See https://forum.snapcraft.io/t/11209 for details.
+      1 shabir-VirtualBox snapd-desktop-integration.snapd-desktop-integration[826]: Sorry, home directories outside of /home needs configuration.
+      1 shabir-VirtualBox snap-store[1801]: adding wildcard app */*/*/org.gnome.Builder.desktop/* to plugin cache
+      1 shabir-VirtualBox snap-store[1801]: adding wildcard app */*/*/org.gnome.Calculator.desktop/* to plugin cache
+      1 shabir-VirtualBox snap-store[1801]: adding wildcard app */*/*/org.gnome.clocks.desktop/* to plugin cache
+      1 shabir-VirtualBox snap-store[1801]: adding wildcard app */*/*/org.gnome.Dictionary.desktop/* to plugin cache
+      1 shabir-VirtualBox snap-store[1801]: adding wildcard app */*/*/org.gnome.Documents.desktop/* to plugin cache
+      1 shabir-VirtualBox snap-store[1801]: adding wildcard app */*/*/org.gnome.Evince/* to plugin cache
+      1 shabir-VirtualBox snap-store[1801]: adding wildcard app */*/*/org.gnome.gedit.desktop/* to plugin cache
+      1 shabir-VirtualBox snap-store[1801]: adding wildcard app */*/*/org.gnome.Maps.desktop/* to plugin cache
+      1 shabir-VirtualBox snap-store[1801]: adding wildcard app */*/*/org.gnome.Weather/* to plugin cache
+      1 shabir-VirtualBox snap-store[1801]: disabled plugins: dpkg, dummy, fedora-langpacks, fedora-pkgdb-collections, repos
+      1 shabir-VirtualBox snap-store[1801]: enabled plugins: fwupd, os-release, packagekit-refine-repos, packagekit-refresh, appstream, hardcoded-blocklist, hardcoded-popular, modalias, packagekit, rewrite-resource, provenance, snap, systemd-updates, generic-updates, provenance-license, icons
+      1 shabir-VirtualBox snap-store[1801]: internal error: failed, but no error code: cancelled-priority
+      1 shabir-VirtualBox snap-store[1801]: not handling error failed for action refresh: E: Failed to fetch http://pk.archive.ubuntu.com/ubuntu/dists/jammy-updates/InRelease  
+      1 shabir-VirtualBox snap-store[1801]: Only 0 apps for recent list, hiding
+      1 shabir-VirtualBox snap-store[1801]: plugin fwupd took 4.9 seconds to do setup
+      1 shabir-VirtualBox spice-vdagent[1191]: vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0 does not exist, exiting
+      1 shabir-VirtualBox spice-vdagent[1660]: vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0 does not exist, exiting
+      1 shabir-VirtualBox systemd[1257]: app-gnome-xdg\x2duser\x2ddirs-1414.scope: Couldn't move process 1414 to requested cgroup '/user.slice/user-1000.slice/user@1000.service/app.slice/app-gnome-xdg\x2duser\x2ddirs-1414.scope': No such process
+      1 shabir-VirtualBox systemd[1257]: app-gnome-xdg\x2duser\x2ddirs-1414.scope: Failed to add PIDs to scope's control group: No such process
+      1 shabir-VirtualBox systemd[1257]: app-gnome-xdg\x2duser\x2ddirs-1414.scope: Failed with result 'resources'.
+      1 shabir-VirtualBox systemd[1257]: Condition check resulted in GNOME Initial Setup being skipped.
+      1 shabir-VirtualBox systemd[1257]: Condition check resulted in GNOME Initial Setup Copy Worker being skipped.
+      1 shabir-VirtualBox systemd[1257]: Created slice Slice /app/gnome-session-manager.
+      1 shabir-VirtualBox systemd[1257]: Created slice Slice /app/org.gnome.Terminal.
+      1 shabir-VirtualBox systemd[1257]: Created slice User Application Slice.
+      1 shabir-VirtualBox systemd[1257]: Created slice User Background Tasks Slice.
+      1 shabir-VirtualBox systemd[1257]: Created slice User Core Session Slice.
+      1 shabir-VirtualBox systemd[1257]: Dependency failed for GNOME XSettings service.
+      1 shabir-VirtualBox systemd[1257]: Failed to start Application launched by gnome-session-binary.
+      1 shabir-VirtualBox systemd[1257]: Finished Rewrite dynamic launcher portal entries.
+      1 shabir-VirtualBox systemd[1257]: Finished Session Migration.
+      1 shabir-VirtualBox systemd[1257]: Finished Signal initialization done to GNOME Session Manager.
+      1 shabir-VirtualBox systemd[1257]: Finished Start gnome-keyring as SSH agent.
+      1 shabir-VirtualBox systemd[1257]: Finished Start gnome-keyring for the Secrets Service, and PKCS #11.
+      1 shabir-VirtualBox systemd[1257]: GNOME session X11 services is inactive.
+      1 shabir-VirtualBox systemd[1257]: gnome-session-x11-services-ready.target: Job gnome-session-x11-services-ready.target/verify-active failed with result 'dependency'.
+      1 shabir-VirtualBox systemd[1257]: Listening on D-Bus User Message Bus Socket.
+      1 shabir-VirtualBox systemd[1257]: Listening on debconf communication socket.
+      1 shabir-VirtualBox systemd[1257]: Listening on GnuPG cryptographic agent and passphrase cache.
+      1 shabir-VirtualBox systemd[1257]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+      1 shabir-VirtualBox systemd[1257]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+      1 shabir-VirtualBox systemd[1257]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+      1 shabir-VirtualBox systemd[1257]: Listening on GnuPG network certificate management daemon.
+      1 shabir-VirtualBox systemd[1257]: Listening on PipeWire Multimedia System Socket.
+      1 shabir-VirtualBox systemd[1257]: Listening on REST API socket for snapd user session agent.
+      1 shabir-VirtualBox systemd[1257]: Listening on Sound System.
+      1 shabir-VirtualBox systemd[1257]: Listening on Speech Dispatcher Socket.
+      1 shabir-VirtualBox systemd[1257]: org.gnome.SettingsDaemon.XSettings.service: Job org.gnome.SettingsDaemon.XSettings.service/start failed with result 'dependency'.
+      1 shabir-VirtualBox systemd[1257]: org.gnome.Shell@x11.service: Scheduled restart job, restart counter is at 1.
+      1 shabir-VirtualBox systemd[1257]: org.gnome.Shell@x11.service: Scheduled restart job, restart counter is at 2.
+      1 shabir-VirtualBox systemd[1257]: org.gnome.Shell@x11.service: Scheduled restart job, restart counter is at 3.
+      1 shabir-VirtualBox systemd[1257]: org.gnome.Shell@x11.service: Start request repeated too quickly.
+      1 shabir-VirtualBox systemd[1257]: pam_unix(systemd-user:session): session opened for user shabir(uid=1000) by (uid=0)
+      1 shabir-VirtualBox systemd[1257]: Queued start job for default target Main User Target.
+      1 shabir-VirtualBox systemd[1257]: Reached target Basic System.
+      1 shabir-VirtualBox systemd[1257]: Reached target Current graphical user session.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME accessibility target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME color management target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME date & time target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME file sharing target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME FreeDesktop screensaver target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME keyboard configuration target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME keyboard shortcuts target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME maintenance of expirable data target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME power management target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME printer notifications target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME RFKill support target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME Session.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME Session is initialized.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME Session Manager is ready.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME Session (session: ubuntu).
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME Shell.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME smartcard target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME sound sample caching target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME Wacom tablet support target.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME Wayland Session.
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME Wayland Session (session: ubuntu).
+      1 shabir-VirtualBox systemd[1257]: Reached target GNOME XSettings target.
+      1 shabir-VirtualBox systemd[1257]: Reached target Main User Target.
+      1 shabir-VirtualBox systemd[1257]: Reached target Paths.
+      1 shabir-VirtualBox systemd[1257]: Reached target Session services which should run early before the graphical session is brought up.
+      1 shabir-VirtualBox systemd[1257]: Reached target Sockets.
+      1 shabir-VirtualBox systemd[1257]: Reached target Tasks to be run before GNOME Session starts.
+      1 shabir-VirtualBox systemd[1257]: Reached target Timers.
+      2 shabir-VirtualBox systemd[1257]: snap.snapd-desktop-integration.snapd-desktop-integration.service: Consumed 1.816s CPU time.
+      1 shabir-VirtualBox systemd[1257]: snap.snapd-desktop-integration.snapd-desktop-integration.service: Scheduled restart job, restart counter is at 1.
+      1 shabir-VirtualBox systemd[1257]: Started Application launched by gnome-shell.
+      1 shabir-VirtualBox systemd[1257]: Started D-Bus User Message Bus.
+      1 shabir-VirtualBox systemd[1257]: Started Evolution address book service.
+      1 shabir-VirtualBox systemd[1257]: Started Evolution calendar service.
+      1 shabir-VirtualBox systemd[1257]: Started Evolution source registry.
+      1 shabir-VirtualBox systemd[1257]: Started flatpak document portal service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME accessibility service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME color management service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME date & time service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME file sharing service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME FreeDesktop screensaver service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME keyboard configuration service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME keyboard shortcuts service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME maintenance of expirable data service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME power management service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME printer notifications service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME RFKill support service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME Session Manager (session: ubuntu).
+      1 shabir-VirtualBox systemd[1257]: Started GNOME Shell on Wayland.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME Shell on X11.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME smartcard service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME sound sample caching service.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME Terminal Server.
+      1 shabir-VirtualBox systemd[1257]: Started GNOME Wacom tablet support service.
+      1 shabir-VirtualBox systemd[1257]: Started IBus Daemon for GNOME.
+      1 shabir-VirtualBox systemd[1257]: Started Monitor Session leader for GNOME Session.
+      1 shabir-VirtualBox systemd[1257]: Started OpenSSH Agent.
+      1 shabir-VirtualBox systemd[1257]: Started Path trigger for Apport crash notifications.
+      1 shabir-VirtualBox systemd[1257]: Started Path trigger for new release of Ubuntu notifications.
+      1 shabir-VirtualBox systemd[1257]: Started Pending report trigger for Ubuntu Report.
+      1 shabir-VirtualBox systemd[1257]: Started PipeWire Media Session Manager.
+      1 shabir-VirtualBox systemd[1257]: Started PipeWire Multimedia Service.
+      1 shabir-VirtualBox systemd[1257]: Started Portal service.
+      1 shabir-VirtualBox systemd[1257]: Started Portal service (GNOME implementation).
+      1 shabir-VirtualBox systemd[1257]: Started Portal service (GTK/GNOME implementation).
+      1 shabir-VirtualBox systemd[1257]: Started sandboxed app permission store.
+      2 shabir-VirtualBox systemd[1257]: Started Service for snap application snapd-desktop-integration.snapd-desktop-integration.
+      1 shabir-VirtualBox systemd[1257]: Started snap.snap-store.ubuntu-software-2e8bd7e4-96d3-4d18-8b92-0a4e79f099ed.scope.
+      1 shabir-VirtualBox systemd[1257]: Started Sound Service.
+      1 shabir-VirtualBox systemd[1257]: Started Tracker file system data miner.
+      2 shabir-VirtualBox systemd[1257]: Started Tracker metadata extractor.
+      1 shabir-VirtualBox systemd[1257]: Started Ubuntu report sends pending metrics data.
+      1 shabir-VirtualBox systemd[1257]: Started User preferences database.
+      1 shabir-VirtualBox systemd[1257]: Started Virtual filesystem metadata service.
+      1 shabir-VirtualBox systemd[1257]: Started Virtual filesystem service.
+      1 shabir-VirtualBox systemd[1257]: Started Virtual filesystem service - Apple File Conduit monitor.
+      1 shabir-VirtualBox systemd[1257]: Started Virtual filesystem service - digital camera monitor.
+      1 shabir-VirtualBox systemd[1257]: Started Virtual filesystem service - disk device monitor.
+      1 shabir-VirtualBox systemd[1257]: Started Virtual filesystem service - GNOME Online Accounts monitor.
+      1 shabir-VirtualBox systemd[1257]: Started Virtual filesystem service - Media Transfer Protocol monitor.
+      1 shabir-VirtualBox systemd[1257]: Started VTE child process 2884 launched by gnome-terminal-server process 2817.
+      1 shabir-VirtualBox systemd[1257]: Starting D-Bus User Message Bus Socket...
+      1 shabir-VirtualBox systemd[1257]: Starting Evolution address book service...
+      1 shabir-VirtualBox systemd[1257]: Starting Evolution calendar service...
+      1 shabir-VirtualBox systemd[1257]: Starting Evolution source registry...
+      1 shabir-VirtualBox systemd[1257]: Starting flatpak document portal service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME accessibility service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME color management service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME date & time service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME file sharing service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME FreeDesktop screensaver service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME keyboard configuration service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME keyboard shortcuts service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME maintenance of expirable data service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME power management service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME printer notifications service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME RFKill support service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME Session Manager (session: ubuntu)...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME Shell on Wayland...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME smartcard service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME sound sample caching service...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME Terminal Server...
+      1 shabir-VirtualBox systemd[1257]: Starting GNOME Wacom tablet support service...
+      1 shabir-VirtualBox systemd[1257]: Starting IBus Daemon for GNOME...
+      1 shabir-VirtualBox systemd[1257]: Starting Monitor Session leader for GNOME Session...
+      1 shabir-VirtualBox systemd[1257]: Starting Portal service...
+      1 shabir-VirtualBox systemd[1257]: Starting Portal service (GNOME implementation)...
+      1 shabir-VirtualBox systemd[1257]: Starting Portal service (GTK/GNOME implementation)...
+      1 shabir-VirtualBox systemd[1257]: Starting Rewrite dynamic launcher portal entries...
+      1 shabir-VirtualBox systemd[1257]: Starting sandboxed app permission store...
+      1 shabir-VirtualBox systemd[1257]: Starting Session Migration...
+      1 shabir-VirtualBox systemd[1257]: Starting Signal initialization done to GNOME Session Manager...
+      1 shabir-VirtualBox systemd[1257]: Starting Sound Service...
+      1 shabir-VirtualBox systemd[1257]: Starting Start gnome-keyring as SSH agent...
+      1 shabir-VirtualBox systemd[1257]: Starting Start gnome-keyring for the Secrets Service, and PKCS #11...
+      1 shabir-VirtualBox systemd[1257]: Starting Tracker file system data miner...
+      2 shabir-VirtualBox systemd[1257]: Starting Tracker metadata extractor...
+      1 shabir-VirtualBox systemd[1257]: Starting User preferences database...
+      1 shabir-VirtualBox systemd[1257]: Starting Virtual filesystem metadata service...
+      1 shabir-VirtualBox systemd[1257]: Starting Virtual filesystem service...
+      1 shabir-VirtualBox systemd[1257]: Starting Virtual filesystem service - Apple File Conduit monitor...
+      1 shabir-VirtualBox systemd[1257]: Starting Virtual filesystem service - digital camera monitor...
+      1 shabir-VirtualBox systemd[1257]: Starting Virtual filesystem service - disk device monitor...
+      1 shabir-VirtualBox systemd[1257]: Starting Virtual filesystem service - GNOME Online Accounts monitor...
+      1 shabir-VirtualBox systemd[1257]: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+      1 shabir-VirtualBox systemd[1257]: Startup finished in 32.419s.
+      1 shabir-VirtualBox systemd[1257]: Stopped Service for snap application snapd-desktop-integration.snapd-desktop-integration.
+      1 shabir-VirtualBox systemd[1]: Activated swap /swapfile.
+      1 shabir-VirtualBox systemd[1]: Activating swap /swapfile...
+      1 shabir-VirtualBox systemd[1]: anacron.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Auto import assertions from block devices being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Automatically repair incorrect owner/permissions on core devices being skipped.
+      2 shabir-VirtualBox systemd[1]: Condition check resulted in Bluetooth service being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Commit a transient machine-id on disk being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Dispatch Password Requests to Console Directory Watch being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in File System Check on Root Device being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in First Boot Complete being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in getty on tty2-tty6 if dbus and logind are not available being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Manage Sound Card State (restore and store) being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Platform Persistent Storage Archival being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Secure Boot updates for DB and DBX being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Store a System Token in an EFI Variable being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Thermal Daemon Service being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Timer to automatically fetch and run repair assertions being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Ubuntu Pro Background Auto Attach being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Ubuntu Pro reboot cmds being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Ubuntu Pro Timer for running repeated jobs being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Unix socket for apport crash forwarding being skipped.
+      1 shabir-VirtualBox systemd[1]: Condition check resulted in Wait for the Ubuntu Core chooser trigger being skipped.
+      1 shabir-VirtualBox systemd[1]: Created slice Slice /system/getty.
+      1 shabir-VirtualBox systemd[1]: Created slice Slice /system/modprobe.
+      1 shabir-VirtualBox systemd[1]: Created slice Slice /system/systemd-fsck.
+      1 shabir-VirtualBox systemd[1]: Created slice User and Session Slice.
+      1 shabir-VirtualBox systemd[1]: Created slice User Slice of UID 1000.
+      1 shabir-VirtualBox systemd[1]: Created slice User Slice of UID 128.
+      1 shabir-VirtualBox systemd[1]: Detected architecture x86-64.
+      1 shabir-VirtualBox systemd[1]: Detected virtualization oracle.
+      1 shabir-VirtualBox systemd[1]: dmesg.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: e2scrub_reap.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: esm-cache.service: Consumed 1.019s CPU time.
+      1 shabir-VirtualBox systemd[1]: esm-cache.service: Consumed 1.029s CPU time.
+      1 shabir-VirtualBox systemd[1]: esm-cache.service: Consumed 1.358s CPU time.
+      1 shabir-VirtualBox systemd[1]: Finished Apply Kernel Variables.
+      1 shabir-VirtualBox systemd[1]: Finished Coldplug All udev Devices.
+      1 shabir-VirtualBox systemd[1]: Finished Create List of Static Device Nodes.
+      1 shabir-VirtualBox systemd[1]: Finished Create Static Device Nodes in /dev.
+      1 shabir-VirtualBox systemd[1]: Finished Create System Users.
+      1 shabir-VirtualBox systemd[1]: Finished Create Volatile Files and Directories.
+      1 shabir-VirtualBox systemd[1]: Finished Detect the available GPUs and deal with any system changes.
+      1 shabir-VirtualBox systemd[1]: Finished Download data for packages that failed at package install time.
+      1 shabir-VirtualBox systemd[1]: Finished File System Check on /dev/disk/by-uuid/4DC1-CA37.
+      1 shabir-VirtualBox systemd[1]: Finished Flush Journal to Persistent Storage.
+      1 shabir-VirtualBox systemd[1]: Finished GRUB failed boot detection.
+      1 shabir-VirtualBox systemd[1]: Finished Hold until boot process finishes up.
+      1 shabir-VirtualBox systemd[1]: Finished Load AppArmor profiles.
+      1 shabir-VirtualBox systemd[1]: Finished Load AppArmor profiles managed internally by snapd.
+      1 shabir-VirtualBox systemd[1]: Finished Load Kernel Module configfs.
+      2 shabir-VirtualBox systemd[1]: Finished Load Kernel Module drm.
+      1 shabir-VirtualBox systemd[1]: Finished Load Kernel Module efi_pstore.
+      1 shabir-VirtualBox systemd[1]: Finished Load Kernel Module fuse.
+      1 shabir-VirtualBox systemd[1]: Finished Load Kernel Modules.
+      1 shabir-VirtualBox systemd[1]: Finished Load/Save Random Seed.
+      1 shabir-VirtualBox systemd[1]: Finished Network Manager Wait Online.
+      1 shabir-VirtualBox systemd[1]: Finished OpenVPN service.
+      1 shabir-VirtualBox systemd[1]: Finished Permit User Sessions.
+      1 shabir-VirtualBox systemd[1]: Finished Record Runlevel Change in UTMP.
+      1 shabir-VirtualBox systemd[1]: Finished Record successful boot for GRUB.
+      1 shabir-VirtualBox systemd[1]: Finished Record System Boot/Shutdown in UTMP.
+      1 shabir-VirtualBox systemd[1]: Finished Remount Root and Kernel File Systems.
+      1 shabir-VirtualBox systemd[1]: Finished Remove Stale Online ext4 Metadata Check Snapshots.
+      1 shabir-VirtualBox systemd[1]: Finished Save/Restore Sound Card State.
+      1 shabir-VirtualBox systemd[1]: Finished Set console font and keymap.
+      1 shabir-VirtualBox systemd[1]: Finished Set console scheme.
+      1 shabir-VirtualBox systemd[1]: Finished Set the console keyboard layout.
+      1 shabir-VirtualBox systemd[1]: Finished Set Up Additional Binary Formats.
+      1 shabir-VirtualBox systemd[1]: Finished Tell Plymouth To Write Out Runtime Data.
+      1 shabir-VirtualBox systemd[1]: Finished Uncomplicated firewall.
+      1 shabir-VirtualBox systemd[1]: Finished User Runtime Directory /run/user/1000.
+      1 shabir-VirtualBox systemd[1]: Finished User Runtime Directory /run/user/128.
+      1 shabir-VirtualBox systemd[1]: Finished Wait until snapd is fully seeded.
+      1 shabir-VirtualBox systemd[1]: Found device VBOX_HARDDISK EFI\x20System\x20Partition.
+      1 shabir-VirtualBox systemd[1]: fprintd.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: geoclue.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: gpu-manager.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: grub-common.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: grub-initrd-fallback.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: Hostname set to <shabir-VirtualBox>.
+      1 shabir-VirtualBox systemd[1]: Inserted module 'autofs4'
+      1 shabir-VirtualBox systemd[1]: irqbalance.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: kerneloops.service: Found left-over process 804 (kerneloops) in control group while starting unit. Ignoring.
+      1 shabir-VirtualBox systemd[1]: Listening on ACPID Listen Socket.
+      1 shabir-VirtualBox systemd[1]: Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+      1 shabir-VirtualBox systemd[1]: Listening on CUPS Scheduler.
+      1 shabir-VirtualBox systemd[1]: Listening on D-Bus System Message Bus Socket.
+      1 shabir-VirtualBox systemd[1]: Listening on fsck to fsckd communication Socket.
+      1 shabir-VirtualBox systemd[1]: Listening on initctl Compatibility Named Pipe.
+      1 shabir-VirtualBox systemd[1]: Listening on Journal Audit Socket.
+      1 shabir-VirtualBox systemd[1]: Listening on Journal Socket.
+      1 shabir-VirtualBox systemd[1]: Listening on Journal Socket (/dev/log).
+      1 shabir-VirtualBox systemd[1]: Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+      1 shabir-VirtualBox systemd[1]: Listening on Socket activation for snappy daemon.
+      1 shabir-VirtualBox systemd[1]: Listening on Syslog Socket.
+      1 shabir-VirtualBox systemd[1]: Listening on udev Control Socket.
+      1 shabir-VirtualBox systemd[1]: Listening on udev Kernel Socket.
+      1 shabir-VirtualBox systemd[1]: Listening on UUID daemon activation socket.
+      1 shabir-VirtualBox systemd[1]: modprobe@configfs.service: Deactivated successfully.
+      2 shabir-VirtualBox systemd[1]: modprobe@drm.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: modprobe@efi_pstore.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: modprobe@fuse.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: Mounted Arbitrary Executable File Formats File System.
+      1 shabir-VirtualBox systemd[1]: Mounted /boot/efi.
+      1 shabir-VirtualBox systemd[1]: Mounted FUSE Control File System.
+      1 shabir-VirtualBox systemd[1]: Mounted Huge Pages File System.
+      1 shabir-VirtualBox systemd[1]: Mounted Kernel Configuration File System.
+      1 shabir-VirtualBox systemd[1]: Mounted Kernel Debug File System.
+      1 shabir-VirtualBox systemd[1]: Mounted Kernel Trace File System.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for bare, revision 5.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for core20, revision 1974.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for core20, revision 2105.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for core22, revision 1033.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for core22, revision 1122.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for core, revision 16202.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for core, revision 16574.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for firefox, revision 2987.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for firefox, revision 2987 via mount-control.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for firefox, revision 3728.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for gnome-3-38-2004, revision 143.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for gnome-42-2204, revision 120.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for gnome-42-2204, revision 141.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for gtk-common-themes, revision 1535.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for snapd-desktop-integration, revision 83.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for snapd, revision 19457.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for snapd, revision 20671.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for snap-store, revision 959.
+      1 shabir-VirtualBox systemd[1]: Mounted Mount unit for tree, revision 18.
+      1 shabir-VirtualBox systemd[1]: Mounted POSIX Message Queue File System.
+      1 shabir-VirtualBox systemd[1]: Mounting Arbitrary Executable File Formats File System...
+      1 shabir-VirtualBox systemd[1]: Mounting /boot/efi...
+      1 shabir-VirtualBox systemd[1]: Mounting FUSE Control File System...
+      1 shabir-VirtualBox systemd[1]: Mounting Huge Pages File System...
+      1 shabir-VirtualBox systemd[1]: Mounting Kernel Configuration File System...
+      1 shabir-VirtualBox systemd[1]: Mounting Kernel Debug File System...
+      1 shabir-VirtualBox systemd[1]: Mounting Kernel Trace File System...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for bare, revision 5...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for core20, revision 1974...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for core20, revision 2105...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for core22, revision 1033...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for core22, revision 1122...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for core, revision 16202...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for core, revision 16574...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for firefox, revision 2987...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for firefox, revision 2987 via mount-control...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for firefox, revision 3728...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for gnome-3-38-2004, revision 143...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for gnome-42-2204, revision 120...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for gnome-42-2204, revision 141...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for gtk-common-themes, revision 1535...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for snapd-desktop-integration, revision 83...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for snapd, revision 19457...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for snapd, revision 20671...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for snap-store, revision 959...
+      1 shabir-VirtualBox systemd[1]: Mounting Mount unit for tree, revision 18...
+      1 shabir-VirtualBox systemd[1]: Mounting POSIX Message Queue File System...
+      1 shabir-VirtualBox systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 291 (systemd-binfmt)
+      1 shabir-VirtualBox systemd[1]: Queued start job for default target Graphical Interface.
+      1 shabir-VirtualBox systemd[1]: Reached target Basic System.
+      1 shabir-VirtualBox systemd[1]: Reached target Graphical Interface.
+      1 shabir-VirtualBox systemd[1]: Reached target Host and Network Name Lookups.
+      1 shabir-VirtualBox systemd[1]: Reached target Local Encrypted Volumes.
+      1 shabir-VirtualBox systemd[1]: Reached target Local File Systems.
+      1 shabir-VirtualBox systemd[1]: Reached target Local Verity Protected Volumes.
+      1 shabir-VirtualBox systemd[1]: Reached target Login Prompts.
+      1 shabir-VirtualBox systemd[1]: Reached target Mounted snaps.
+      1 shabir-VirtualBox systemd[1]: Reached target Mounting snaps.
+      1 shabir-VirtualBox systemd[1]: Reached target Multi-User System.
+      1 shabir-VirtualBox systemd[1]: Reached target Network.
+      1 shabir-VirtualBox systemd[1]: Reached target Network is Online.
+      1 shabir-VirtualBox systemd[1]: Reached target Path Units.
+      1 shabir-VirtualBox systemd[1]: Reached target Preparation for Local File Systems.
+      1 shabir-VirtualBox systemd[1]: Reached target Preparation for Logins.
+      1 shabir-VirtualBox systemd[1]: Reached target Preparation for Network.
+      1 shabir-VirtualBox systemd[1]: Reached target Remote File Systems.
+      1 shabir-VirtualBox systemd[1]: Reached target Slice Units.
+      1 shabir-VirtualBox systemd[1]: Reached target Socket Units.
+      1 shabir-VirtualBox systemd[1]: Reached target Sound Card.
+      1 shabir-VirtualBox systemd[1]: Reached target Swaps.
+      1 shabir-VirtualBox systemd[1]: Reached target System Initialization.
+      1 shabir-VirtualBox systemd[1]: Reached target System Time Set.
+      1 shabir-VirtualBox systemd[1]: Reached target Timer Units.
+      1 shabir-VirtualBox systemd[1]: Reached target User and Group Name Lookups.
+      2 shabir-VirtualBox systemd[1]: Received SIGRTMIN+20 from PID 239 (plymouthd).
+      2 shabir-VirtualBox systemd[1]: Received SIGRTMIN+21 from PID 239 (plymouthd).
+      1 shabir-VirtualBox systemd[1]: Removed slice User Slice of UID 128.
+      1 shabir-VirtualBox systemd[1]: run-user-128-doc.mount: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: run-user-128-gvfs.mount: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: run-user-128.mount: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: session-c1.scope: Consumed 11.523s CPU time.
+      1 shabir-VirtualBox systemd[1]: session-c1.scope: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: Set up automount Arbitrary Executable File Formats File System Automount Point.
+      1 shabir-VirtualBox systemd[1]: snapd.aa-prompt-listener.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: Started Accounts Service.
+      1 shabir-VirtualBox systemd[1]: Started ACPI event daemon.
+      1 shabir-VirtualBox systemd[1]: Started ACPI Events Check.
+      1 shabir-VirtualBox systemd[1]: Started Authorization Manager.
+      1 shabir-VirtualBox systemd[1]: Started Avahi mDNS/DNS-SD Stack.
+      1 shabir-VirtualBox systemd[1]: Started Check to see whether there is a new version of Ubuntu available.
+      1 shabir-VirtualBox systemd[1]: Started crash report submission.
+      2 shabir-VirtualBox systemd[1]: Started CUPS Scheduler.
+      1 shabir-VirtualBox systemd[1]: Started Daemon for power management.
+      1 shabir-VirtualBox systemd[1]: Started Daily apt download activities.
+      1 shabir-VirtualBox systemd[1]: Started Daily apt upgrade and clean activities.
+      1 shabir-VirtualBox systemd[1]: Started Daily Cleanup of Temporary Directories.
+      1 shabir-VirtualBox systemd[1]: Started Daily dpkg database backup timer.
+      1 shabir-VirtualBox systemd[1]: Started Daily man-db regeneration.
+      1 shabir-VirtualBox systemd[1]: Started Daily rotation of log files.
+      1 shabir-VirtualBox systemd[1]: Started D-Bus System Message Bus.
+      1 shabir-VirtualBox systemd[1]: Started Discard unused blocks once a week.
+      1 shabir-VirtualBox systemd[1]: Started Disk Manager.
+      1 shabir-VirtualBox systemd[1]: Started Dispatcher daemon for systemd-networkd.
+      1 shabir-VirtualBox systemd[1]: Started Download data for packages that failed at package install time.
+      1 shabir-VirtualBox systemd[1]: Started File System Check Daemon to report status.
+      1 shabir-VirtualBox systemd[1]: Started Fingerprint Authentication Daemon.
+      1 shabir-VirtualBox systemd[1]: Started Firmware update daemon.
+      1 shabir-VirtualBox systemd[1]: Started Forward Password Requests to Plymouth Directory Watch.
+      1 shabir-VirtualBox systemd[1]: Started Forward Password Requests to Wall Directory Watch.
+      1 shabir-VirtualBox systemd[1]: Started GNOME Display Manager.
+      1 shabir-VirtualBox systemd[1]: Started Hostname Service.
+      1 shabir-VirtualBox systemd[1]: Started irqbalance daemon.
+      1 shabir-VirtualBox systemd[1]: Started Journal Service.
+      1 shabir-VirtualBox systemd[1]: Started Locale Service.
+      1 shabir-VirtualBox systemd[1]: Started Location Lookup Service.
+      1 shabir-VirtualBox systemd[1]: Started LSB: automatic crash report generation.
+      1 shabir-VirtualBox systemd[1]: Started Make remote CUPS printers available locally.
+      1 shabir-VirtualBox systemd[1]: Started Manage, Install and Generate Color Profiles.
+      1 shabir-VirtualBox systemd[1]: Started Message of the Day.
+      1 shabir-VirtualBox systemd[1]: Started Modem Manager.
+      1 shabir-VirtualBox systemd[1]: Started Network Manager.
+      1 shabir-VirtualBox systemd[1]: Started Network Manager Script Dispatcher Service.
+      1 shabir-VirtualBox systemd[1]: Started Network Name Resolution.
+      1 shabir-VirtualBox systemd[1]: Started Network Time Synchronization.
+      1 shabir-VirtualBox systemd[1]: Started PackageKit Daemon.
+      1 shabir-VirtualBox systemd[1]: Started Periodic ext4 Online Metadata Check for All Filesystems.
+      1 shabir-VirtualBox systemd[1]: Started Power Profiles daemon.
+      1 shabir-VirtualBox systemd[1]: Started RealtimeKit Scheduling Policy Service.
+      1 shabir-VirtualBox systemd[1]: Started Refresh fwupd metadata regularly.
+      1 shabir-VirtualBox systemd[1]: Started Regular background program processing daemon.
+      1 shabir-VirtualBox systemd[1]: Started Rule-based Manager for Device Events and Files.
+      1 shabir-VirtualBox systemd[1]: Started Run anacron jobs.
+      1 shabir-VirtualBox systemd[1]: Started Save initial kernel messages after boot.
+      1 shabir-VirtualBox systemd[1]: Started Session 2 of User shabir.
+      1 shabir-VirtualBox systemd[1]: Started Session c1 of User gdm.
+      1 shabir-VirtualBox systemd[1]: Started Show Plymouth Boot Screen.
+      1 shabir-VirtualBox systemd[1]: Started Snap Daemon.
+      1 shabir-VirtualBox systemd[1]: Started Start whoopsie on modification of the /var/crash directory.
+      1 shabir-VirtualBox systemd[1]: Started Switcheroo Control Proxy service.
+      1 shabir-VirtualBox systemd[1]: Started System Logging Service.
+      1 shabir-VirtualBox systemd[1]: Started The Apache HTTP Server.
+      1 shabir-VirtualBox systemd[1]: Started Tool to automatically collect and submit kernel crash signatures.
+      1 shabir-VirtualBox systemd[1]: Started Trigger anacron every hour.
+      1 shabir-VirtualBox systemd[1]: Started Unattended Upgrades Shutdown.
+      1 shabir-VirtualBox systemd[1]: Started User Login Management.
+      1 shabir-VirtualBox systemd[1]: Started User Manager for UID 1000.
+      1 shabir-VirtualBox systemd[1]: Started User Manager for UID 128.
+      1 shabir-VirtualBox systemd[1]: Started Userspace listener for prompt events.
+      1 shabir-VirtualBox systemd[1]: Started Userspace Out-Of-Memory (OOM) Killer.
+      1 shabir-VirtualBox systemd[1]: Started WPA supplicant.
+      1 shabir-VirtualBox systemd[1]: Starting Accounts Service...
+      1 shabir-VirtualBox systemd[1]: Starting Apply Kernel Variables...
+      1 shabir-VirtualBox systemd[1]: Starting Authorization Manager...
+      1 shabir-VirtualBox systemd[1]: Starting Avahi mDNS/DNS-SD Stack...
+      1 shabir-VirtualBox systemd[1]: Starting Coldplug All udev Devices...
+      1 shabir-VirtualBox systemd[1]: Starting Create List of Static Device Nodes...
+      1 shabir-VirtualBox systemd[1]: Starting Create Static Device Nodes in /dev...
+      1 shabir-VirtualBox systemd[1]: Starting Create System Users...
+      1 shabir-VirtualBox systemd[1]: Starting Create Volatile Files and Directories...
+      1 shabir-VirtualBox systemd[1]: Starting CUPS Scheduler...
+      1 shabir-VirtualBox systemd[1]: Starting Daemon for power management...
+      1 shabir-VirtualBox systemd[1]: Starting Detect the available GPUs and deal with any system changes...
+      1 shabir-VirtualBox systemd[1]: Starting Disk Manager...
+      1 shabir-VirtualBox systemd[1]: Starting Dispatcher daemon for systemd-networkd...
+      1 shabir-VirtualBox systemd[1]: Starting Download data for packages that failed at package install time...
+      1 shabir-VirtualBox systemd[1]: Starting File System Check on /dev/disk/by-uuid/4DC1-CA37...
+      1 shabir-VirtualBox systemd[1]: Starting Fingerprint Authentication Daemon...
+      1 shabir-VirtualBox systemd[1]: Starting Firmware update daemon...
+      1 shabir-VirtualBox systemd[1]: Starting Flush Journal to Persistent Storage...
+      1 shabir-VirtualBox systemd[1]: Starting GNOME Display Manager...
+      1 shabir-VirtualBox systemd[1]: Starting GRUB failed boot detection...
+      1 shabir-VirtualBox systemd[1]: Starting Hold until boot process finishes up...
+      1 shabir-VirtualBox systemd[1]: Starting Hostname Service...
+      1 shabir-VirtualBox systemd[1]: Starting Journal Service...
+      1 shabir-VirtualBox systemd[1]: Starting Load AppArmor profiles...
+      1 shabir-VirtualBox systemd[1]: Starting Load AppArmor profiles managed internally by snapd...
+      1 shabir-VirtualBox systemd[1]: Starting Load Kernel Module configfs...
+      2 shabir-VirtualBox systemd[1]: Starting Load Kernel Module drm...
+      1 shabir-VirtualBox systemd[1]: Starting Load Kernel Module efi_pstore...
+      1 shabir-VirtualBox systemd[1]: Starting Load Kernel Module fuse...
+      1 shabir-VirtualBox systemd[1]: Starting Load Kernel Modules...
+      1 shabir-VirtualBox systemd[1]: Starting Load/Save Random Seed...
+      1 shabir-VirtualBox systemd[1]: Starting Locale Service...
+      1 shabir-VirtualBox systemd[1]: Starting Location Lookup Service...
+      1 shabir-VirtualBox systemd[1]: Starting LSB: automatic crash report generation...
+      1 shabir-VirtualBox systemd[1]: Starting Manage, Install and Generate Color Profiles...
+      1 shabir-VirtualBox systemd[1]: Starting Modem Manager...
+      1 shabir-VirtualBox systemd[1]: Starting Network Manager...
+      1 shabir-VirtualBox systemd[1]: Starting Network Manager Script Dispatcher Service...
+      1 shabir-VirtualBox systemd[1]: Starting Network Manager Wait Online...
+      1 shabir-VirtualBox systemd[1]: Starting Network Name Resolution...
+      1 shabir-VirtualBox systemd[1]: Starting Network Time Synchronization...
+      1 shabir-VirtualBox systemd[1]: Starting OpenVPN service...
+      1 shabir-VirtualBox systemd[1]: Starting PackageKit Daemon...
+      1 shabir-VirtualBox systemd[1]: Starting Permit User Sessions...
+      1 shabir-VirtualBox systemd[1]: Starting Power Profiles daemon...
+      1 shabir-VirtualBox systemd[1]: Starting RealtimeKit Scheduling Policy Service...
+      1 shabir-VirtualBox systemd[1]: Starting Record Runlevel Change in UTMP...
+      1 shabir-VirtualBox systemd[1]: Starting Record successful boot for GRUB...
+      1 shabir-VirtualBox systemd[1]: Starting Record System Boot/Shutdown in UTMP...
+      1 shabir-VirtualBox systemd[1]: Starting Remount Root and Kernel File Systems...
+      1 shabir-VirtualBox systemd[1]: Starting Remove Stale Online ext4 Metadata Check Snapshots...
+      1 shabir-VirtualBox systemd[1]: Starting Rule-based Manager for Device Events and Files...
+      1 shabir-VirtualBox systemd[1]: Starting Save/Restore Sound Card State...
+      1 shabir-VirtualBox systemd[1]: Starting Set console font and keymap...
+      1 shabir-VirtualBox systemd[1]: Starting Set console scheme...
+      1 shabir-VirtualBox systemd[1]: Starting Set the console keyboard layout...
+      1 shabir-VirtualBox systemd[1]: Starting Set Up Additional Binary Formats...
+      1 shabir-VirtualBox systemd[1]: Starting Show Plymouth Boot Screen...
+      1 shabir-VirtualBox systemd[1]: Starting Snap Daemon...
+      1 shabir-VirtualBox systemd[1]: Starting Socket activation for snappy daemon...
+      1 shabir-VirtualBox systemd[1]: Starting Switcheroo Control Proxy service...
+      1 shabir-VirtualBox systemd[1]: Starting System Logging Service...
+      1 shabir-VirtualBox systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+      1 shabir-VirtualBox systemd[1]: Starting The Apache HTTP Server...
+      1 shabir-VirtualBox systemd[1]: Starting Tool to automatically collect and submit kernel crash signatures...
+      1 shabir-VirtualBox systemd[1]: Starting Uncomplicated firewall...
+      1 shabir-VirtualBox systemd[1]: Starting User Login Management...
+      1 shabir-VirtualBox systemd[1]: Starting User Manager for UID 1000...
+      1 shabir-VirtualBox systemd[1]: Starting User Manager for UID 128...
+      1 shabir-VirtualBox systemd[1]: Starting User Runtime Directory /run/user/1000...
+      1 shabir-VirtualBox systemd[1]: Starting User Runtime Directory /run/user/128...
+      1 shabir-VirtualBox systemd[1]: Starting Userspace Out-Of-Memory (OOM) Killer...
+      1 shabir-VirtualBox systemd[1]: Starting Wait until snapd is fully seeded...
+      1 shabir-VirtualBox systemd[1]: Starting WPA supplicant...
+      1 shabir-VirtualBox systemd[1]: Startup finished in 4.588s (kernel) + 39.207s (userspace) = 43.796s.
+      1 shabir-VirtualBox systemd[1]: Stopped User Manager for UID 128.
+      1 shabir-VirtualBox systemd[1]: Stopped User Runtime Directory /run/user/128.
+      1 shabir-VirtualBox systemd[1]: Stopping User Manager for UID 128...
+      1 shabir-VirtualBox systemd[1]: Stopping User Runtime Directory /run/user/128...
+      1 shabir-VirtualBox systemd[1]: systemd 249.11-0ubuntu3.12 running in system mode (+PAM +AUDIT +SELINUX +APPARMOR +IMA +SMACK +SECCOMP +GCRYPT +GNUTLS +OPENSSL +ACL +BLKID +CURL +ELFUTILS +FIDO2 +IDN2 -IDN +IPTC +KMOD +LIBCRYPTSETUP +LIBFDISK +PCRE2 -PWQUALITY -P11KIT -QRENCODE +BZIP2 +LZ4 +XZ +ZLIB +ZSTD -XKBCOMMON +UTMP +SYSVINIT default-hierarchy=unified)
+      1 shabir-VirtualBox systemd[1]: systemd-fsckd.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: systemd-localed.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: systemd-update-utmp-runlevel.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: This usually indicates unclean termination of a previous run, or service implementation deficiencies.
+      1 shabir-VirtualBox systemd[1]: tmp-snap.rootfs_5k8NDk.mount: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: tmp-snap.rootfs_lXDGHj.mount: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: tmp-syscheck\x2dmountpoint\x2d785802095.mount: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: update-notifier-download.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: user@128.service: Consumed 6.665s CPU time.
+      1 shabir-VirtualBox systemd[1]: user@128.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: user-128.slice: Consumed 18.213s CPU time.
+      1 shabir-VirtualBox systemd[1]: user-runtime-dir@128.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[1]: whoopsie.service: Deactivated successfully.
+      1 shabir-VirtualBox systemd[702]: app.slice: Consumed 3.131s CPU time.
+      1 shabir-VirtualBox systemd[702]: background.slice: Consumed 1.864s CPU time.
+      1 shabir-VirtualBox systemd[702]: Closed D-Bus User Message Bus Socket.
+      1 shabir-VirtualBox systemd[702]: Closed debconf communication socket.
+      1 shabir-VirtualBox systemd[702]: Closed GnuPG cryptographic agent and passphrase cache.
+      1 shabir-VirtualBox systemd[702]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+      1 shabir-VirtualBox systemd[702]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+      1 shabir-VirtualBox systemd[702]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+      1 shabir-VirtualBox systemd[702]: Closed GnuPG network certificate management daemon.
+      1 shabir-VirtualBox systemd[702]: Closed PipeWire Multimedia System Socket.
+      1 shabir-VirtualBox systemd[702]: Closed REST API socket for snapd user session agent.
+      1 shabir-VirtualBox systemd[702]: Closed Sound System.
+      1 shabir-VirtualBox systemd[702]: Closed Speech Dispatcher Socket.
+      1 shabir-VirtualBox systemd[702]: Created slice User Application Slice.
+      1 shabir-VirtualBox systemd[702]: Created slice User Background Tasks Slice.
+      1 shabir-VirtualBox systemd[702]: Created slice User Core Session Slice.
+      1 shabir-VirtualBox systemd[702]: Finished Exit the Session.
+      1 shabir-VirtualBox systemd[702]: Listening on D-Bus User Message Bus Socket.
+      1 shabir-VirtualBox systemd[702]: Listening on debconf communication socket.
+      1 shabir-VirtualBox systemd[702]: Listening on GnuPG cryptographic agent and passphrase cache.
+      1 shabir-VirtualBox systemd[702]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+      1 shabir-VirtualBox systemd[702]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+      1 shabir-VirtualBox systemd[702]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+      1 shabir-VirtualBox systemd[702]: Listening on GnuPG network certificate management daemon.
+      1 shabir-VirtualBox systemd[702]: Listening on PipeWire Multimedia System Socket.
+      1 shabir-VirtualBox systemd[702]: Listening on REST API socket for snapd user session agent.
+      1 shabir-VirtualBox systemd[702]: Listening on Sound System.
+      1 shabir-VirtualBox systemd[702]: Listening on Speech Dispatcher Socket.
+      1 shabir-VirtualBox systemd[702]: pam_unix(systemd-user:session): session opened for user gdm(uid=128) by (uid=0)
+      1 shabir-VirtualBox systemd[702]: Queued start job for default target Main User Target.
+      1 shabir-VirtualBox systemd[702]: Reached target Basic System.
+      1 shabir-VirtualBox systemd[702]: Reached target Exit the Session.
+      1 shabir-VirtualBox systemd[702]: Reached target Main User Target.
+      1 shabir-VirtualBox systemd[702]: Reached target Paths.
+      1 shabir-VirtualBox systemd[702]: Reached target Shutdown.
+      1 shabir-VirtualBox systemd[702]: Reached target Sockets.
+      1 shabir-VirtualBox systemd[702]: Reached target Timers.
+      1 shabir-VirtualBox systemd[702]: Removed slice User Application Slice.
+      1 shabir-VirtualBox systemd[702]: Removed slice User Background Tasks Slice.
+      1 shabir-VirtualBox systemd[702]: Removed slice User Core Session Slice.
+      1 shabir-VirtualBox systemd[702]: snap.snapd-desktop-integration.snapd-desktop-integration.service: Consumed 2.020s CPU time.
+      1 shabir-VirtualBox systemd[702]: snap.snapd-desktop-integration.snapd-desktop-integration.service: Failed with result 'exit-code'.
+      1 shabir-VirtualBox systemd[702]: snap.snapd-desktop-integration.snapd-desktop-integration.service: Main process exited, code=exited, status=1/FAILURE
+      1 shabir-VirtualBox systemd[702]: Started D-Bus User Message Bus.
+      1 shabir-VirtualBox systemd[702]: Started flatpak document portal service.
+      1 shabir-VirtualBox systemd[702]: Started Pending report trigger for Ubuntu Report.
+      1 shabir-VirtualBox systemd[702]: Started PipeWire Media Session Manager.
+      1 shabir-VirtualBox systemd[702]: Started PipeWire Multimedia Service.
+      1 shabir-VirtualBox systemd[702]: Started sandboxed app permission store.
+      1 shabir-VirtualBox systemd[702]: Started Service for snap application snapd-desktop-integration.snapd-desktop-integration.
+      1 shabir-VirtualBox systemd[702]: Started Sound Service.
+      1 shabir-VirtualBox systemd[702]: Started Tracker file system data miner.
+      1 shabir-VirtualBox systemd[702]: Started Tracker metadata extractor.
+      1 shabir-VirtualBox systemd[702]: Started Virtual filesystem service.
+      1 shabir-VirtualBox systemd[702]: Started Virtual filesystem service - Apple File Conduit monitor.
+      1 shabir-VirtualBox systemd[702]: Started Virtual filesystem service - digital camera monitor.
+      1 shabir-VirtualBox systemd[702]: Started Virtual filesystem service - disk device monitor.
+      1 shabir-VirtualBox systemd[702]: Started Virtual filesystem service - GNOME Online Accounts monitor.
+      1 shabir-VirtualBox systemd[702]: Started Virtual filesystem service - Media Transfer Protocol monitor.
+      1 shabir-VirtualBox systemd[702]: Starting D-Bus User Message Bus Socket...
+      1 shabir-VirtualBox systemd[702]: Starting flatpak document portal service...
+      1 shabir-VirtualBox systemd[702]: Starting sandboxed app permission store...
+      1 shabir-VirtualBox systemd[702]: Starting Sound Service...
+      1 shabir-VirtualBox systemd[702]: Starting Tracker file system data miner...
+      1 shabir-VirtualBox systemd[702]: Starting Tracker metadata extractor...
+      1 shabir-VirtualBox systemd[702]: Starting Virtual filesystem service...
+      1 shabir-VirtualBox systemd[702]: Starting Virtual filesystem service - Apple File Conduit monitor...
+      1 shabir-VirtualBox systemd[702]: Starting Virtual filesystem service - digital camera monitor...
+      1 shabir-VirtualBox systemd[702]: Starting Virtual filesystem service - disk device monitor...
+      1 shabir-VirtualBox systemd[702]: Starting Virtual filesystem service - GNOME Online Accounts monitor...
+      1 shabir-VirtualBox systemd[702]: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+      1 shabir-VirtualBox systemd[702]: Startup finished in 13.856s.
+      1 shabir-VirtualBox systemd[702]: Stopped D-Bus User Message Bus.
+      1 shabir-VirtualBox systemd[702]: Stopped flatpak document portal service.
+      1 shabir-VirtualBox systemd[702]: Stopped Pending report trigger for Ubuntu Report.
+      1 shabir-VirtualBox systemd[702]: Stopped PipeWire Media Session Manager.
+      1 shabir-VirtualBox systemd[702]: Stopped PipeWire Multimedia Service.
+      1 shabir-VirtualBox systemd[702]: Stopped sandboxed app permission store.
+      1 shabir-VirtualBox systemd[702]: Stopped target Basic System.
+      1 shabir-VirtualBox systemd[702]: Stopped target Main User Target.
+      1 shabir-VirtualBox systemd[702]: Stopped target Paths.
+      1 shabir-VirtualBox systemd[702]: Stopped target Sockets.
+      1 shabir-VirtualBox systemd[702]: Stopped target Timers.
+      1 shabir-VirtualBox systemd[702]: Stopped Tracker file system data miner.
+      1 shabir-VirtualBox systemd[702]: Stopped Virtual filesystem service.
+      1 shabir-VirtualBox systemd[702]: Stopped Virtual filesystem service - Apple File Conduit monitor.
+      1 shabir-VirtualBox systemd[702]: Stopped Virtual filesystem service - digital camera monitor.
+      1 shabir-VirtualBox systemd[702]: Stopped Virtual filesystem service - disk device monitor.
+      1 shabir-VirtualBox systemd[702]: Stopped Virtual filesystem service - GNOME Online Accounts monitor.
+      1 shabir-VirtualBox systemd[702]: Stopped Virtual filesystem service - Media Transfer Protocol monitor.
+      1 shabir-VirtualBox systemd[702]: Stopping D-Bus User Message Bus...
+      1 shabir-VirtualBox systemd[702]: Stopping flatpak document portal service...
+      1 shabir-VirtualBox systemd[702]: Stopping PipeWire Media Session Manager...
+      1 shabir-VirtualBox systemd[702]: Stopping PipeWire Multimedia Service...
+      1 shabir-VirtualBox systemd[702]: Stopping sandboxed app permission store...
+      1 shabir-VirtualBox systemd[702]: Stopping Tracker file system data miner...
+      1 shabir-VirtualBox systemd[702]: Stopping Virtual filesystem service...
+      1 shabir-VirtualBox systemd[702]: Stopping Virtual filesystem service - Apple File Conduit monitor...
+      1 shabir-VirtualBox systemd[702]: Stopping Virtual filesystem service - digital camera monitor...
+      1 shabir-VirtualBox systemd[702]: Stopping Virtual filesystem service - disk device monitor...
+      1 shabir-VirtualBox systemd[702]: Stopping Virtual filesystem service - GNOME Online Accounts monitor...
+      1 shabir-VirtualBox systemd[702]: Stopping Virtual filesystem service - Media Transfer Protocol monitor...
+      1 shabir-VirtualBox systemd[702]: tracker-miner-fs-3.service: Consumed 1.600s CPU time.
+      1 shabir-VirtualBox systemd[702]: xdg-document-portal.service: Failed with result 'exit-code'.
+      1 shabir-VirtualBox systemd[702]: xdg-document-portal.service: Main process exited, code=exited, status=20/n/a
+      1 shabir-VirtualBox systemd[702]: xdg-permission-store.service: Failed with result 'exit-code'.
+      1 shabir-VirtualBox systemd[702]: xdg-permission-store.service: Main process exited, code=exited, status=1/FAILURE
+      1 shabir-VirtualBox systemd-fsck[280]:   65:01/00
+      1 shabir-VirtualBox systemd-fsck[280]:  Automatically removing dirty bit.
+      1 shabir-VirtualBox systemd-fsck[280]: /dev/sda2: 11 files, 1555/131063 clusters
+      1 shabir-VirtualBox systemd-fsck[280]: Dirty bit is set. Fs was not properly unmounted and some data may be corrupt.
+      1 shabir-VirtualBox systemd-fsck[280]: *** Filesystem was changed ***
+      1 shabir-VirtualBox systemd-fsck[280]: fsck.fat 4.2 (2021-01-31)
+      1 shabir-VirtualBox systemd-fsck[280]:   Not automatically fixing this.
+      1 shabir-VirtualBox systemd-fsck[280]: There are differences between boot sector and its backup.
+      1 shabir-VirtualBox systemd-fsck[280]: This is mostly harmless. Differences: (offset:original/backup)
+      1 shabir-VirtualBox systemd-fsck[280]: Writing changes.
+      1 shabir-VirtualBox systemd-journald[175]: Journal started
+      1 shabir-VirtualBox systemd-journald[175]: Runtime Journal (/run/log/journal/bf727be2101c433e9ccd0579e231c85b) is 1.8M, max 14.4M, 12.6M free.
+      1 shabir-VirtualBox systemd-journald[175]: System Journal (/var/log/journal/bf727be2101c433e9ccd0579e231c85b) is 240.0M, max 2.0G, 1.8G free.
+      1 shabir-VirtualBox systemd-journald[175]: Time spent on flushing to /var/log/journal/bf727be2101c433e9ccd0579e231c85b is 52.287ms for 554 entries.
+      1 shabir-VirtualBox systemd-logind[460]: New seat seat0.
+      1 shabir-VirtualBox systemd-logind[460]: New session 2 of user shabir.
+      1 shabir-VirtualBox systemd-logind[460]: New session c1 of user gdm.
+      1 shabir-VirtualBox systemd-logind[460]: Removed session c1.
+      1 shabir-VirtualBox systemd-logind[460]: Session c1 logged out. Waiting for processes to exit.
+      1 shabir-VirtualBox systemd-logind[460]: Watching system buttons on /dev/input/event0 (Power Button)
+      1 shabir-VirtualBox systemd-logind[460]: Watching system buttons on /dev/input/event1 (Sleep Button)
+      1 shabir-VirtualBox systemd-logind[460]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+      1 shabir-VirtualBox systemd-modules-load[187]: Inserted module 'lp'
+      1 shabir-VirtualBox systemd-modules-load[187]: Inserted module 'msr'
+      1 shabir-VirtualBox systemd-modules-load[187]: Inserted module 'parport_pc'
+      1 shabir-VirtualBox systemd-modules-load[187]: Inserted module 'ppdev'
+      1 shabir-VirtualBox systemd-resolved[320]: Clock change detected. Flushing caches.
+      1 shabir-VirtualBox systemd-resolved[320]: enp0s3: Bus client set default route setting: yes
+      1 shabir-VirtualBox systemd-resolved[320]: enp0s3: Bus client set DNS server list to: 8.8.8.8, 8.8.4.4
+      1 shabir-VirtualBox systemd-resolved[320]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+      1 shabir-VirtualBox systemd-resolved[320]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa corp home internal intranet lan local private test
+      1 shabir-VirtualBox systemd-resolved[320]: Positive Trust Anchors:
+      1 shabir-VirtualBox systemd-resolved[320]: Using system hostname 'shabir-VirtualBox'.
+      1 shabir-VirtualBox systemd-timesyncd[321]: Initial synchronization to time server 185.125.190.57:123 (ntp.ubuntu.com).
+      1 shabir-VirtualBox systemd-udevd[223]: sda2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda2' failed with exit code 1.
+      1 shabir-VirtualBox systemd-udevd[223]: Using default interface naming scheme 'v249'.
+      1 shabir-VirtualBox systemd-udevd[228]: sda1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda1' failed with exit code 1.
+      1 shabir-VirtualBox systemd-udevd[228]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+      1 shabir-VirtualBox systemd-udevd[229]: controlC0: Process '/usr/sbin/alsactl -E HOME=/run/alsa -E XDG_RUNTIME_DIR=/run/alsa/runtime restore 0' failed with exit code 99.
+      1 shabir-VirtualBox systemd-udevd[233]: sda3: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda3' failed with exit code 1.
+      1 shabir-VirtualBox systemd-udevd[233]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+      2 shabir-VirtualBox tracker-miner-f[897]: Unable to get XDG user directory path for special directory &DOCUMENTS. Ignoring this location.
+      1 shabir-VirtualBox tracker-miner-f[897]: Unable to get XDG user directory path for special directory &DOWNLOAD. Ignoring this location.
+      2 shabir-VirtualBox tracker-miner-f[897]: Unable to get XDG user directory path for special directory &MUSIC. Ignoring this location.
+      2 shabir-VirtualBox tracker-miner-f[897]: Unable to get XDG user directory path for special directory &PICTURES. Ignoring this location.
+      2 shabir-VirtualBox tracker-miner-f[897]: Unable to get XDG user directory path for special directory &VIDEOS. Ignoring this location.
+      1 shabir-VirtualBox tracker-miner-fs-3[897]: OK
+      1 shabir-VirtualBox ubuntu-appindicators@ubuntu.com[1413]: unable to update icon for livepatch
+      1 shabir-VirtualBox ubuntu-appindicators@ubuntu.com[1413]: unable to update icon for software-update-available
+      1 shabir-VirtualBox ubuntu-report[1271]: level=error msg="data were not delivered successfully to metrics server, retrying in 120s"
+      1 shabir-VirtualBox ubuntu-report[1271]: level=error msg="data were not delivered successfully to metrics server, retrying in 240s"
+      1 shabir-VirtualBox ubuntu-report[1271]: level=error msg="data were not delivered successfully to metrics server, retrying in 30s"
+      1 shabir-VirtualBox ubuntu-report[1271]: level=error msg="data were not delivered successfully to metrics server, retrying in 60s"
+      1 shabir-VirtualBox udisksd[467]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+      1 shabir-VirtualBox udisksd[467]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+      1 shabir-VirtualBox udisksd[467]: Failed to load the 'mdraid' libblockdev plugin
+      1 shabir-VirtualBox udisksd[467]: udisks daemon version 2.9.4 starting
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[1007]: dbus-daemon[1007]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=128 pid=877 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[1007]: dbus-daemon[1007]: Successfully activated service 'org.a11y.atspi.Registry'
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[1043]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Activating service name='org.a11y.Bus' requested by ':1.4' (uid=128 pid=877 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Activating service name='org.freedesktop.impl.portal.PermissionStore' requested by ':1.3' (uid=128 pid=877 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Activating service name='org.freedesktop.portal.IBus' requested by ':1.25' (uid=128 pid=1057 comm="ibus-daemon --panel disable " label="unconfined")
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Activating service name='org.freedesktop.portal.IBus' requested by ':1.34' (uid=128 pid=1199 comm="ibus-daemon --panel disable -r --xim " label="unconfined")
+      2 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Activating service name='org.freedesktop.systemd1' requested by ':1.10' (uid=128 pid=1048 comm="/usr/libexec/gsd-sharing " label="unconfined")
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Activating service name='org.gnome.ScreenSaver' requested by ':1.23' (uid=128 pid=1081 comm="/usr/libexec/gsd-power " label="unconfined")
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Activating service name='org.gnome.Shell.Notifications' requested by ':1.3' (uid=128 pid=877 comm="/usr/bin/gnome-shell " label="unconfined")
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Activating service name='org.gtk.vfs.Daemon' requested by ':1.25' (uid=128 pid=1057 comm="ibus-daemon --panel disable " label="unconfined")
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Successfully activated service 'org.a11y.Bus'
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+      2 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Successfully activated service 'org.freedesktop.portal.IBus'
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Successfully activated service 'org.gnome.ScreenSaver'
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Successfully activated service 'org.gnome.Shell.Notifications'
+      1 shabir-VirtualBox /usr/libexec/gdm-wayland-session[844]: dbus-daemon[844]: [session uid=128 pid=844] Successfully activated service 'org.gtk.vfs.Daemon'
+      1 shabir-VirtualBox /usr/sbin/irqbalance[433]: Balancing is ineffective on systems with a single cpu.  Shutting down
+      1 shabir-VirtualBox whoopsie[801]: [17:45:20] Using lock path: /var/lock/whoopsie/lock
+      1 shabir-VirtualBox wpa_supplicant[471]: Successfully initialized wpa_supplicant
+      1 shabir-VirtualBox xbrlapi.desktop[1193]: cannot connect to braille devices daemon brltty at :0
+      1 shabir-VirtualBox xbrlapi.desktop[1193]: openConnection: connect: No such file or directory
